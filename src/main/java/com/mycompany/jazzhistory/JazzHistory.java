@@ -8,6 +8,7 @@ import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
+import java.util.Arrays;
 
 /**
  *
@@ -62,18 +63,21 @@ public class JazzHistory {
             
             String [] sortores = new String[1000];
             String[][] rendezett = new String[5000][2];
-            int hossz2=0;
-            String itiner = "[,.;()]";
+            int hossz2=1;
+            String itiner = "[,.;(]";
             for (int i = 0; i < 5000; i++){
                 if (nyers[i]==null) {
                     break;
                 }
                sortores=nyers[i].split(itiner);
-               for (String s : sortores) {
+               /*for (String s : sortores) {
 	                System.out.println(s);
+                }*/
+                    for (String s : sortores) {
+                        rendezett[hossz2][0] = s.replace(" ","");
+                        //System.out.println(Arrays.toString(rendezett[hossz2]));
+                        hossz2++;
                     }
-               
-                
             }
                          
         } catch (FileNotFoundException ex) {
