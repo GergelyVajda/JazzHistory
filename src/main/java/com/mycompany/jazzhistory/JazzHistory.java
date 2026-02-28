@@ -61,11 +61,12 @@ public class JazzHistory {
                 }
             }
             
+            String tisztit;
             String [] sortores = new String[1000];
             String[][] rendezett = new String[5000][2];
             int hossz2=1;
             String itiner = "[,.;(]";
-            for (int i = 0; i < 5000; i++){
+            for (int i = 0; i < nyers.length; i++){
                 if (nyers[i]==null) {
                     break;
                 }
@@ -74,12 +75,18 @@ public class JazzHistory {
 	                System.out.println(s);
                 }*/
                     for (String s : sortores) {
-                        rendezett[hossz2][0] = s.replace(" ","");
-                        //System.out.println(Arrays.toString(rendezett[hossz2]));
+                        tisztit= s.replace(" ","").replaceAll(".+\\)", "").replaceAll("/","").replaceAll("\\?", "");
+                        if (tisztit.length()<5) {
+                            //System.out.println(tisztit);
+                            continue;
+                        }
+                        rendezett[hossz2][0]=tisztit;
+                        System.out.println(Arrays.toString(rendezett[hossz2]));
                         hossz2++;
+                        
                     }
             }
-                         
+            
         } catch (FileNotFoundException ex) {
             System.out.println("Hol a file?");
                   
