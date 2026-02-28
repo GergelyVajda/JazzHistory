@@ -63,8 +63,8 @@ public class JazzHistory {
             
             String tisztit;
             String [] sortores = new String[1000];
-            String[][] rendezett = new String[5000][2];
-            int hossz2=1;
+            String[][] rendezett = new String[4000][2];
+            int hossz2=0;
             String itiner = "[,.;(]";
             for (int i = 0; i < nyers.length; i++){
                 if (nyers[i]==null) {
@@ -75,16 +75,41 @@ public class JazzHistory {
 	                System.out.println(s);
                 }*/
                     for (String s : sortores) {
-                        tisztit= s.replace(" ","").replaceAll(".+\\)", "").replaceAll("/","").replaceAll("\\?", "");
+                        tisztit= s.replace(" ","").replaceAll(".+\\)","").replaceAll("/","").replaceAll("\\?","").replaceAll("\\[","");
                         if (tisztit.length()<5) {
                             //System.out.println(tisztit);
                             continue;
                         }
                         rendezett[hossz2][0]=tisztit;
-                        System.out.println(Arrays.toString(rendezett[hossz2]));
+                        rendezett[hossz2][1]="0";
+                        //System.out.println(Arrays.toString(rendezett[hossz2]));
                         hossz2++;
                         
                     }
+            }
+            /*for (int i = 0; i < rendezett.length; i++) {
+                System.out.println(rendezett[i][0]+" "+rendezett[i][1]);
+            }*/
+            String ellenorzes;
+            Integer sorszam = 1;
+            for (int i = 0; i < 4000; i++) {
+                if (rendezett[i][0]==null) {
+                    break;
+                }
+                ellenorzes=rendezett[i][0];
+                for (int j = 0; j < 4000; j++) {
+                    if (rendezett[j][0]==null) {
+                    break;
+                    }
+                    if (ellenorzes.contentEquals(rendezett[j][0]) && rendezett[j][1].contentEquals("0")) {
+                    rendezett[j][1]=sorszam.toString();
+                        //System.out.println(sorszam.toString());
+                    }
+                }
+                sorszam++;
+            }
+            for (int i = 0; i < rendezett.length; i++) {
+                System.out.println(rendezett[i][0]+" "+rendezett[i][1]);
             }
             
         } catch (FileNotFoundException ex) {
