@@ -119,14 +119,7 @@ public class JazzHistory {
             /*for (int i = 0; i < rendezett.length; i++) {
                 System.out.println(rendezett[i][0]+" "+rendezett[i][1]);
             }*/
-            for (int i = 0; i < rendezett.length; i++) {
-                if (rendezett[i][0]==null) {
-                    break;
-                }
-                if (rendezett[i][0].contentEquals("PaulBarbarin")) {
-                    System.out.println(rendezett[i][0]);
-                }
-            }
+            
             String ellenorzes;
             Integer sorszam = 1;
             for (int i = 0; i < rendezett.length; i++) {
@@ -189,23 +182,15 @@ public class JazzHistory {
                     break;
                 }
                 System.out.println(osszeadott[i][0]+" "+osszeadott[i][1]);
-            }
-            for (int i = 0; i < osszeadott.length; i++) {
-                if (osszeadott[i][0]==null) {
-                    break;
-                }
-                if (osszeadott[i][1]==2715) {
-                    System.out.println(rendezett[i][0]);
-                }
             }*/
-            /*int hely;
+            int hely;
             int legnagyobb=0;
             int nagyobb=0;
             int ideiglenesSzam;
             int ideiglenesID;
             for (int i = 0; i < osszeadott.length; i++) {
                 if (osszeadott[i-1][0] == null) {
-                    i++;
+                    continue;
                 }else if(osszeadott[i][0] == null) {
                 break;
                 }
@@ -224,7 +209,7 @@ public class JazzHistory {
             }
             FileWriter buta2=new FileWriter("JazztoriZeneszekElofordulas1.2.txt");
             PrintWriter okos2=new PrintWriter(buta2);
-            */
+            
 
         } catch (FileNotFoundException ex) {
             System.out.println("Hol a file?");
