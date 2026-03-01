@@ -36,10 +36,37 @@ public class JazzHistory {
                     //System.out.println(" ez a vége:"+hossz1);
                     break;
                 }
+                if (beolvasas.contains("1)")) {
+                    beolvasas=beolvasas.replace("1","");
+                }
+                if (beolvasas.contains("2)")) {
+                    beolvasas=beolvasas.replace("2","");
+                }
+                if (beolvasas.contains("3)")) {
+                    beolvasas=beolvasas.replace("3","");
+                }
+                if (beolvasas.contains("4)")) {
+                    beolvasas=beolvasas.replace("4","");
+                }
+                if (beolvasas.contains("5)")) {
+                    beolvasas=beolvasas.replace("5","");
+                }
+                if (beolvasas.contains("6)")) {
+                    beolvasas=beolvasas.replace("6","");
+                }
+                if (beolvasas.contains("7)")) {
+                    beolvasas=beolvasas.replace("7","");
+                }
+                if (beolvasas.contains("8)")) {
+                    beolvasas=beolvasas.replace("8","");
+                }
+                if (beolvasas.contains("9)")) {
+                    beolvasas=beolvasas.replace("9","");
+                }
+               
                 if (beolvasas.contains("0") || beolvasas.contains("1") || beolvasas.contains("2") || beolvasas.contains("3") || beolvasas.contains("4")
                         || beolvasas.contains("5") || beolvasas.contains("6") || beolvasas.contains("7") || beolvasas.contains("8") || beolvasas.contains("9") 
-                        || beolvasas.contains("LFZE") || beolvasas.contains("Friedrich") || beolvasas.contains("Károly") || !beolvasas.contains("(")|| beolvasas.contains(":") 
-                        && !beolvasas.contains("-1")/* && !beolvasas.contains("-2") && !beolvasas.contains("-3") && !beolvasas.contains("-4") && !beolvasas.contains("-5")*/) 
+                        || beolvasas.contains("LFZE") || beolvasas.contains("Friedrich") || beolvasas.contains("Károly") || !beolvasas.contains("(")|| beolvasas.contains(":")) 
                 {
                     if (irniKell) {
                         //System.out.println("1");
@@ -73,9 +100,9 @@ public class JazzHistory {
                     break;
                 }
                sortores=nyers[i].split(itiner);
-               for (String s : sortores) {
+               /*for (String s : sortores) {
 	                System.out.println(s);
-                }
+                }*/
                     for (String s : sortores) {
                         tisztit= s.replace(" ","").replaceAll(".+\\)","").replaceAll("/","").replaceAll("\\?","").replaceAll("\\[","");
                         if (tisztit.length()<5) {
