@@ -11,6 +11,7 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.Arrays;
+import java.util.Collections;
 
 /**
  *
@@ -178,35 +179,65 @@ public class JazzHistory {
                 sum=0;
             }
             /*for (int i = 0; i < osszeadott.length; i++) {
-                if (osszeadott[i][0]==null) {
-                    break;
-                }
                 System.out.println(osszeadott[i][0]+" "+osszeadott[i][1]);
             }*/
-            int hely;
-            int legnagyobb=0;
-            int nagyobb=0;
-            int ideiglenesSzam;
+            
+            Integer[] atmeneti= new Integer[4000];
+            int hossz3=0;
+            int szamlalo=1;
+            for (int i = 0; i < 4000; i++) {
+                if (osszeadott[i][0]==null) {                  
+                    break;
+                }
+                if (osszeadott[i][1]==szamlalo) {
+                    System.out.println(osszeadott[i][1]+" "+szamlalo);
+                    atmeneti[hossz3]=osszeadott[i][0];
+                    hossz3++;
+                    szamlalo++;
+                }
+            }
+            for (int i = 0; i < atmeneti.length; i++) {
+                if (atmeneti[i]==null) {
+                    break;
+                }
+                System.out.println(atmeneti[i]+" "+i);
+            }
+            Integer[] egyediSum= new Integer[hossz3+1];
+            
+            for (int i = 0; i < egyediSum.length; i++) {
+                egyediSum[i]=atmeneti[i];
+            }
+            
+            for (int i = 0; i < egyediSum.length; i++) {
+                if (egyediSum[i]==null) {
+                    break;
+                }
+                System.out.println(egyediSum[i]);
+            }
+            /*int ideiglenesSzam;
             int ideiglenesID;
-            for (int i = 0; i < osszeadott.length; i++) {
-                if (osszeadott[i-1][0] == null) {
-                    continue;
-                }else if(osszeadott[i][0] == null) {
-                break;
-                }
-                if (osszeadott[i][0]>osszeadott[i-1][0]) {
-                    ideiglenesSzam=osszeadott[i-1][0];
-                    ideiglenesID=osszeadott[i-1][1];
-                    osszeadott[i-1][0]=osszeadott[i][0];
-                    osszeadott[i-1][1]=osszeadott[i][1];
-                    osszeadott[i][0]=ideiglenesSzam;
-                    osszeadott[i][1]=ideiglenesID;
+            for (int j = 0; j < osszeadott.length; j++) {
+                    for (int i = 0; i < osszeadott.length; i++) {
+                    if (osszeadott[i-1][0] == null) {
+                        continue;
+                    }else if(osszeadott[i][0] == null) {
+                    break;
+                    }
+                    if (osszeadott[i][0]>osszeadott[i-1][0]) {
+                        ideiglenesSzam=osszeadott[i-1][0];
+                        ideiglenesID=osszeadott[i-1][1];
+                        osszeadott[i-1][0]=osszeadott[i][0];
+                        osszeadott[i-1][1]=osszeadott[i][1];
+                        osszeadott[i][0]=ideiglenesSzam;
+                        osszeadott[i][1]=ideiglenesID;
                     
+                    }
                 }
-            }
-            for (int i = 0; i < osszeadott.length; i++) {
+            }*/
+            //bubbleSort(osszeadott);
+            /*for (int i = 0; i < osszeadott.length; i++) {
                 System.out.println(osszeadott[i][0]+" "+osszeadott[i][1]);
-            }
+            }*/
             FileWriter buta2=new FileWriter("JazztoriZeneszekElofordulas1.2.txt");
             PrintWriter okos2=new PrintWriter(buta2);
             
@@ -218,4 +249,29 @@ public class JazzHistory {
             System.out.println("IOException, hiba az olvasásnál");
         }
     }
+    
+    public static void bubbleSort(Integer[][] array) {
+    boolean swapped = true;
+    int j = 0;
+    int tmp;
+    int tmpID;
+    while (swapped) {
+        swapped = false;
+        j++;
+        for (int i = 0; i < array.length - j; i++) {
+            if (array[i][0] == null) {
+                continue;
+            }
+            if (array[i][0] > array[i + 1][0]) {
+                tmp = array[i][0];
+                tmpID = array[i][1];
+                array[i][0] = array[i + 1][0];
+                array[i][1] = array[i + 1][1];
+                array[i + 1][0] = tmp;
+                array[i + 1][1] = tmpID;
+                swapped = true;
+            }
+        }
+    }
+}
 }
