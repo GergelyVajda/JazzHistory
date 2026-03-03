@@ -146,9 +146,9 @@ public class JazzHistory {
                    irt=false;
                 }
             }
-            for (int i = 0; i < rendezett.length; i++) {
+            /*for (int i = 0; i < rendezett.length; i++) {
                 System.out.println(rendezett[i][0]+" "+rendezett[i][1]);
-            }
+            }*/
             int aktualisID;
             int osszeadID;
             int sum=0;
@@ -222,6 +222,19 @@ public class JazzHistory {
             }*/
             FileWriter buta2=new FileWriter("JazztoriZeneszekElofordulas1.2.txt");
             PrintWriter okos2=new PrintWriter(buta2);
+            
+            for (int i = 0; i < egyediSum.length; i++) {
+                if (egyediSum[i][0]==null) {
+                    break;
+                }
+                for (int j = 0; j < rendezett.length; j++) {
+                    if (Integer.parseInt(rendezett[j][1])==egyediSum[i][1]) {
+                        okos2.println((i+1)+". "+rendezett[j][0]+" "+egyediSum[i][0].toString());
+                        break;
+                    }
+                }           
+            }
+            okos2.close();
             
 
         } catch (FileNotFoundException ex) {
