@@ -105,7 +105,7 @@ public class JazzHistory {
 	                System.out.println(s);
                 }*/
                     for (String s : sortores) {
-                        tisztit= s.replace(" ","").replaceAll(".+\\)","").replaceAll("/","").replaceAll("\\?","").replaceAll("\\[","");
+                        tisztit= s.replace(" ","").replaceAll(".+\\)","").replaceAll("/","").replaceAll("\\?","").replaceAll("\\[","").replaceAll("\\]","").replace(")","");
                         if (tisztit.length()<5) {
                             //System.out.println(tisztit);
                             continue;
@@ -123,6 +123,7 @@ public class JazzHistory {
             
             String ellenorzes;
             Integer sorszam = 1;
+            Boolean irt = false;
             for (int i = 0; i < rendezett.length; i++) {
                 if (rendezett[i][0]==null) {
                     break;
@@ -132,16 +133,22 @@ public class JazzHistory {
                     if (rendezett[j][0]==null) {
                     break;
                     }
-                    if (ellenorzes.contentEquals(rendezett[j][0]) && rendezett[j][1].contentEquals("0")) {
+                    if (ellenorzes.contentEquals(rendezett[j][0]) && rendezett[j][1].contentEquals("0")){
                     rendezett[j][1]=sorszam.toString();
+                    irt=true;
                         //System.out.println(sorszam.toString());
+                    }else if(ellenorzes.contentEquals(rendezett[j][0]) && !rendezett[j][1].contentEquals("0")){
+                    break;
                     }
                 }
-                sorszam++;
+                if (irt) {
+                   sorszam++; 
+                   irt=false;
+                }
             }
-            /*for (int i = 0; i < rendezett.length; i++) {
+            for (int i = 0; i < rendezett.length; i++) {
                 System.out.println(rendezett[i][0]+" "+rendezett[i][1]);
-            }*/
+            }
             int aktualisID;
             int osszeadID;
             int sum=0;
@@ -178,9 +185,9 @@ public class JazzHistory {
                 osszeadott[j][1]=aktualisID;
                 sum=0;
             }
-            /*for (int i = 0; i < osszeadott.length; i++) {
+            for (int i = 0; i < osszeadott.length; i++) {
                 System.out.println(osszeadott[i][0]+" "+osszeadott[i][1]);
-            }*/
+            }
             
             Integer[] atmeneti= new Integer[4000];
             int hossz3=0;
@@ -190,17 +197,18 @@ public class JazzHistory {
                     break;
                 }
                 if (osszeadott[i][1]==szamlalo) {
-                    System.out.println(osszeadott[i][1]+" "+szamlalo);
+                    //System.out.println(osszeadott[i][1]+" "+szamlalo);
                     atmeneti[hossz3]=osszeadott[i][0];
                     hossz3++;
                     szamlalo++;
                 }
             }
+            System.out.println(atmeneti.length);
             for (int i = 0; i < atmeneti.length; i++) {
                 if (atmeneti[i]==null) {
                     break;
                 }
-                System.out.println(atmeneti[i]+" "+i);
+               // System.out.println(atmeneti[i]+" "+i);
             }
             Integer[] egyediSum= new Integer[hossz3+1];
             
@@ -212,7 +220,7 @@ public class JazzHistory {
                 if (egyediSum[i]==null) {
                     break;
                 }
-                System.out.println(egyediSum[i]);
+                //System.out.println(egyediSum[i]);
             }
             /*int ideiglenesSzam;
             int ideiglenesID;
