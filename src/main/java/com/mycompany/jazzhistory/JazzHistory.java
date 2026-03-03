@@ -185,9 +185,9 @@ public class JazzHistory {
                 osszeadott[j][1]=aktualisID;
                 sum=0;
             }
-            for (int i = 0; i < osszeadott.length; i++) {
+            /*for (int i = 0; i < osszeadott.length; i++) {
                 System.out.println(osszeadott[i][0]+" "+osszeadott[i][1]);
-            }
+            }*/
             
             Integer[] atmeneti= new Integer[4000];
             int hossz3=0;
@@ -197,54 +197,28 @@ public class JazzHistory {
                     break;
                 }
                 if (osszeadott[i][1]==szamlalo) {
-                    //System.out.println(osszeadott[i][1]+" "+szamlalo);
                     atmeneti[hossz3]=osszeadott[i][0];
                     hossz3++;
                     szamlalo++;
                 }
             }
-            System.out.println(atmeneti.length);
-            for (int i = 0; i < atmeneti.length; i++) {
+            
+            /*for (int i = 0; i < atmeneti.length; i++) {
                 if (atmeneti[i]==null) {
                     break;
                 }
-               // System.out.println(atmeneti[i]+" "+i);
-            }
-            Integer[] egyediSum= new Integer[hossz3+1];
-            
-            for (int i = 0; i < egyediSum.length; i++) {
-                egyediSum[i]=atmeneti[i];
-            }
-            
-            for (int i = 0; i < egyediSum.length; i++) {
-                if (egyediSum[i]==null) {
-                    break;
-                }
-                //System.out.println(egyediSum[i]);
-            }
-            /*int ideiglenesSzam;
-            int ideiglenesID;
-            for (int j = 0; j < osszeadott.length; j++) {
-                    for (int i = 0; i < osszeadott.length; i++) {
-                    if (osszeadott[i-1][0] == null) {
-                        continue;
-                    }else if(osszeadott[i][0] == null) {
-                    break;
-                    }
-                    if (osszeadott[i][0]>osszeadott[i-1][0]) {
-                        ideiglenesSzam=osszeadott[i-1][0];
-                        ideiglenesID=osszeadott[i-1][1];
-                        osszeadott[i-1][0]=osszeadott[i][0];
-                        osszeadott[i-1][1]=osszeadott[i][1];
-                        osszeadott[i][0]=ideiglenesSzam;
-                        osszeadott[i][1]=ideiglenesID;
-                    
-                    }
-                }
+               System.out.println(atmeneti[i]+" "+i);
             }*/
-            //bubbleSort(osszeadott);
-            /*for (int i = 0; i < osszeadott.length; i++) {
-                System.out.println(osszeadott[i][0]+" "+osszeadott[i][1]);
+            Integer[][] egyediSum= new Integer[hossz3+1][2];
+            
+            for (int i = 0; i < egyediSum.length; i++) {
+                egyediSum[i][0]=atmeneti[i];
+                egyediSum[i][1]=(i+1);
+                
+            }            
+            bubbleSortDescending(egyediSum);
+            /*for (int i = 0; i < egyediSum.length; i++) {
+                System.out.println(egyediSum[i][0]+" "+egyediSum[i][1]);
             }*/
             FileWriter buta2=new FileWriter("JazztoriZeneszekElofordulas1.2.txt");
             PrintWriter okos2=new PrintWriter(buta2);
@@ -257,29 +231,29 @@ public class JazzHistory {
             System.out.println("IOException, hiba az olvasásnál");
         }
     }
-    
-    public static void bubbleSort(Integer[][] array) {
-    boolean swapped = true;
-    int j = 0;
-    int tmp;
-    int tmpID;
-    while (swapped) {
-        swapped = false;
-        j++;
-        for (int i = 0; i < array.length - j; i++) {
-            if (array[i][0] == null) {
-                continue;
+    public static void bubbleSortDescending(Integer[][] arr) {
+        int n = arr.length;
+        
+        for (int i = 0; i < n - 1; i++) {
+            
+            boolean swapped = false;  
+
+            for (int j = 0; j < n - i - 1; j++) {
+                if (arr[j+1][0]==null) {
+                    break;
+                }
+                if (arr[j][0] < arr[j + 1][0]) {
+                    int temp = arr[j][0];
+                    int tempID = arr[j][1];
+                    arr[j][0] = arr[j + 1][0];
+                    arr[j][1] = arr[j + 1][1];
+                    arr[j + 1][0] = temp;
+                    arr[j + 1][1] = tempID;
+                    swapped = true;
+                }
             }
-            if (array[i][0] > array[i + 1][0]) {
-                tmp = array[i][0];
-                tmpID = array[i][1];
-                array[i][0] = array[i + 1][0];
-                array[i][1] = array[i + 1][1];
-                array[i + 1][0] = tmp;
-                array[i + 1][1] = tmpID;
-                swapped = true;
-            }
+
+            if (!swapped) break;
         }
     }
-}
 }
