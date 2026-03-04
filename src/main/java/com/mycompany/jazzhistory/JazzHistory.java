@@ -10,8 +10,6 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.Arrays;
-import java.util.Collections;
 
 /**
  *
@@ -108,6 +106,9 @@ public class JazzHistory {
                         tisztit= s.replace(" ","").replaceAll(".+\\)","").replaceAll("/","").replaceAll("\\?","").replaceAll("\\[","").replaceAll("\\]","").replace(")","");
                         if (tisztit.length()<5) {
                             //System.out.println(tisztit);
+                            continue;
+                        }
+                        if (allUpper(tisztit) || allLower(tisztit)) {
                             continue;
                         }
                         rendezett[hossz2][0]=tisztit;
@@ -227,10 +228,12 @@ public class JazzHistory {
                 if (egyediSum[i][0]==null) {
                     break;
                 }
+                okos2.print((i+1)+". ");
                 for (int j = 0; j < rendezett.length; j++) {
-                    if (Integer.parseInt(rendezett[j][1])==egyediSum[i][1]) {
-                        okos2.println((i+1)+". "+rendezett[j][0]+" "+egyediSum[i][0].toString());
+                    if (Integer.parseInt(rendezett[j][1])==egyediSum[i][1]) { //replace(/([A-Z])/g, " $1").trim();
+                        okos2.println(rendezett[j][0]+" "+egyediSum[i][0].toString());
                         break;
+                       
                     }
                 }           
             }
@@ -269,4 +272,16 @@ public class JazzHistory {
             if (!swapped) break;
         }
     }
+    public static boolean allUpper(String input) {
+        return input.equals(input.toUpperCase());
+    }
+
+    public static boolean allLower(String input) {
+        return input.equals(input.toLowerCase());
+    }
+    public static boolean startWithUpperCase(String givenString){
+
+            if(null == givenString || givenString.isEmpty() ) return false;
+            else return (Character.isUpperCase( givenString.codePointAt(0) ) );
+        }
 }
