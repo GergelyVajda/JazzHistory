@@ -1,1293 +1,1292 @@
-1. ColemanHawkins 33
-2. LesterYoung 27
-3. CountBasie 26
-4. FreddieGreen 26
-5. RoyEldridge 25
-6. JoJones 25
-7. BenWebster 20
-8. LouisArmstrong 17
-9. BillieHoliday 17
-10. BennyGoodman 16
-11. WalterPage 16
-12. TeddyWilson 14
-13. JohnnyHodges 14
-14. RayBrown 14
-15. CootieWilliams 13
-16. BuckClayton 13
-17. HarryCarney 13
-18. FrankFoster 12
-19. SonnyPayne 12
-20. BennyCarter 11
-21. JohnKirby 11
-22. GeneKrupa 11
-23. BennyPowell 11
-24. CharlieFowlkes 11
-25. EllaFitzgerald 11
-26. BusterBailey 10
-27. JoeNewman 10
-28. ArtieShaw 10
-29. FrankWess 10
-30. LawrenceBrown 10
-31. RedNorvo 10
-32. OscarPeterson 10
-33. ChuBerry 9
+1. Coleman Hawkins 33
+2. Lester Young 27
+3. Count Basie 26
+4. Freddie Green 26
+5. Roy Eldridge 25
+6. Jo Jones 25
+7. Ben Webster 20
+8. Louis Armstrong 17
+9. Billie Holiday 17
+10. Benny Goodman 16
+11. Walter Page 16
+12. Teddy Wilson 14
+13. Johnny Hodges 14
+14. Ray Brown 14
+15. Cootie Williams 13
+16. Buck Clayton 13
+17. Harry Carney 13
+18. Frank Foster 12
+19. Sonny Payne 12
+20. Benny Carter 11
+21. John Kirby 11
+22. Gene Krupa 11
+23. Benny Powell 11
+24. Charlie Fowlkes 11
+25. Ella Fitzgerald 11
+26. Buster Bailey 10
+27. Joe Newman 10
+28. Artie Shaw 10
+29. Frank Wess 10
+30. Lawrence Brown 10
+31. Red Norvo 10
+32. Oscar Peterson 10
+33. Chu Berry 9
 34. Higginbotham 8
-35. LionelHampton 8
-36. CozyCole 8
-37. AlKlink 8
-38. VicDickenson 8
-39. ThadJones 8
-40. EddieJones 8
-41. SonnyGreer 8
-42. GlennMiller 8
-43. TommyDorsey 7
-44. PaulBarbarin 7
-45. FletcherHenderson 7
-46. ClaudeJones 7
-47. RussellProcope 7
-48. HymieSchertzer 7
-49. ArtieBernstein 7
-50. MildredBailey 7
-51. BillGraham 7
-52. EarlHines 7
-53. BuddJohnson 7
-54. BarneyKessel 7
-55. PaulGonsalves 7
-56. WendellCulley 7
-57. BillHughes 7
-58. MarshallRoyal 7
-59. EricDixon 7
-60. DukeEllington 7
-61. PaulTanner 7
-62. WilburSchwartz 7
-63. TexBeneke 7
-64. ChummyMacGregor 7
-65. MauricePurtill 7
-66. PetePeterson 7
-67. HerbEllis 7
-68. HankJones 7
-69. BunnyBerigan 6
-70. CharlieHolmes 6
-71. LuisRussell 6
-72. RexStewart 6
-73. RedBallard 6
-74. JessStacy 6
-75. DizzyGillespie 6
-76. MiltHinton 6
-77. EdgarSampson 6
-78. JohnBest 6
-79. SnookyYoung 6
-80. JackWashington 6
-81. HarryEdison 6
-82. HenryCooker 6
-83. AlGrey 6
-84. SonnyCohn 6
-85. FredGuy 6
-86. JimmyHamilton 6
-87. Dale"Mickey"McMickle 6
-88. HalMcIntyre 6
+35. Lionel Hampton 8
+36. Cozy Cole 8
+37. Al Klink 8
+38. Vic Dickenson 8
+39. Thad Jones 8
+40. Eddie Jones 8
+41. Sonny Greer 8
+42. Glenn Miller 8
+43. Tommy Dorsey 7
+44. Paul Barbarin 7
+45. Fletcher Henderson 7
+46. Claude Jones 7
+47. Russell Procope 7
+48. Hymie Schertzer 7
+49. Artie Bernstein 7
+50. Mildred Bailey 7
+51. Bill Graham 7
+52. Earl Hines 7
+53. Budd Johnson 7
+54. Barney Kessel 7
+55. Paul Gonsalves 7
+56. Wendell Culley 7
+57. Bill Hughes 7
+58. Marshall Royal 7
+59. Eric Dixon 7
+60. Duke Ellington 7
+61. Paul Tanner 7
+62. Wilbur Schwartz 7
+63. Tex Beneke 7
+64. Chummy Mac Gregor 7
+65. Maurice Purtill 7
+66. Pete Peterson 7
+67. Herb Ellis 7
+68. Hank Jones 7
+69. Bunny Berigan 6
+70. Charlie Holmes 6
+71. Luis Russell 6
+72. Rex Stewart 6
+73. Red Ballard 6
+74. Jess Stacy 6
+75. Dizzy Gillespie 6
+76. Milt Hinton 6
+77. Edgar Sampson 6
+78. John Best 6
+79. Snooky Young 6
+80. Jack Washington 6
+81. Harry Edison 6
+82. Henry Cooker 6
+83. Al Grey 6
+84. Sonny Cohn 6
+85. Fred Guy 6
+86. Jimmy Hamilton 6
+87. Dale "Mickey" Mc Mickle 6
+88. Hal Mc Intyre 6
 89. Wilson 6
-90. RayEberle 5
-91. DaveBarbour 5
-92. Henry"Red"Allen 5
-93. PopsFoster 5
-94. HarryGoodman 5
-95. BillyButterfield 5
-96. DonRedman 5
-97. RussellSmith 5
-98. SidneyCatlett 5
-99. AllenReuss 5
-100. DaveTough 5
-101. JimmyMaxwell 5
-102. ClydeHart 5
-103. CharlieChristian 5
-104. ChuckGentry 5
-105. BuddyRich 5
-106. ReunaldJones 5
-107. PeteClark 5
-108. LammarWright 5
-109. DanMinor 5
-110. DickieWells 5
+90. Ray Eberle 5
+91. Dave Barbour 5
+92. Henry "Red" Allen 5
+93. Pops Foster 5
+94. Harry Goodman 5
+95. Billy Butterfield 5
+96. Don Redman 5
+97. Russell Smith 5
+98. Sidney Catlett 5
+99. Allen Reuss 5
+100. Dave Tough 5
+101. Jimmy Maxwell 5
+102. Clyde Hart 5
+103. Charlie Christian 5
+104. Chuck Gentry 5
+105. Buddy Rich 5
+106. Reunald Jones 5
+107. Pete Clark 5
+108. Lammar Wright 5
+109. Dan Minor 5
+110. Dickie Wells 5
 111. JJJohnson 5
-112. MarshalRoyal 5
+112. Marshal Royal 5
 113. Ellington 5
-114. BarneyBigard 5
-115. RayNance 5
-116. ClarkTerry 5
-117. SamWoodyard 5
-118. BillyMay 5
-119. FrankD'Annolfo 5
+114. Barney Bigard 5
+115. Ray Nance 5
+116. Clark Terry 5
+117. Sam Woodyard 5
+118. Billy May 5
+119. Frank D 'Annolfo 5
 120. Heard 5
 121. Hampton 5
-122. RedCallender 5
-123. AlbertNicholas 4
-124. OtisJohnson 4
-125. BobbyStark 4
-126. JoeThomas 4
-127. AllanReuss 4
-128. BudFreeman 4
-129. NickFatool 4
-130. SkippyMartin 4
-131. JohnnyGuarnieri 4
-132. GeneTraxler 4
-133. EdytheWright 4
-134. DickJones 4
-135. FredRobinson 4
-136. JimmyMundy 4
-137. MarioBauza 4
-138. SandyWilliams 4
-139. JohnTrueheart 4
-140. ChickWebb 4
-141. BarryRogers 4
-142. JerryGray 4
-143. DodoMarmarosa 4
-144. DePriestWheeler 4
-145. AndrewBrown 4
-146. DocCheatham 4
-147. EdLewis 4
-148. HenryCoker 4
-149. GroverMitchell 4
-150. JuanTizol 4
-151. CatAnderson 4
-152. AaronBell 4
-153. AlMastren 4
-154. RollieBundock 4
-155. JimmyPriddy 4
-156. ErnieCaceres 4
-157. EddieSauter 4
-158. DickyWells 4
-159. AlvinStoller 4
-160. OscarPettiford 4
-161. MaxRoach 4
-162. TommyFlanagan 4
-163. DickMcDonough 3
-164. WillJohnson 3
-165. CharlieGreen 3
-166. CharlieDixon 3
-167. KaiserMarshall 3
-168. BennyMorton 3
-169. KegJohnson 3
-170. LawrenceLucie 3
-171. ElmerJames 3
-172. ArthurRollini 3
-173. DeanKincaide 3
-174. Goodman 3
-175. DickClark 3
-176. HarryJames 3
-177. ZiggyElman 3
-178. VidoMusso 3
-179. VernonBrown 3
-180. DaveMatthews 3
-181. JerryJerome 3
-182. LouMcGarity 3
-183. CuttyCutshall 3
-184. GeorgieAuld 3
-185. ClintNeagley 3
-186. GeorgeBerg 3
-187. TomMorgan 3
-188. MelLewis 3
-189. CrawfordWethington 3
-190. Lawrence"Larry"Lucie 3
-191. ClydeRounds 3
-192. LesJenkins 3
-193. FredStulce 3
-194. CarmenMastren 3
-195. JackLeonard 3
-196. DavidRose 3
-197. GeorgeWettling 3
-198. DonFagerquist 3
-199. BusterSmith 3
-200. JimmyPowell 3
-201. EddieHeywood 3
-202. GeorgeDixon 3
-203. TaftJordan 3
-204. LesRobinson 3
-205. JudDeNaut 3
-206. JackJenney 3
-207. RayConniff 3
-208. BusterHarding 3
-209. ArtieShapiro 3
-210. Walter"Foots"Thomas 3
-211. MorrisWhite 3
-212. CabCalloway 3
-213. EddieBarefield 3
-214. DannyBarker 3
-215. WillieSmith 3
-216. JimmyRushing 3
-217. EarlWarren 3
-218. BuddyTate 3
-219. FreddyGreen 3
-220. IllinoisJacquet 3
-221. AlAarons 3
-222. UrbieGreen 3
-223. BobbyPlater 3
-224. DannyTurner 3
-225. OttoHardwicke 3
-226. WellmanBraud 3
-227. JoeNanton 3
-228. WallaceJones 3
-229. JimmyBlanton 3
-230. QuentinJackson 3
-231. BillMiller 3
-232. LeighKnowles 3
-233. BillFinegan 3
-234. ClydeHurley 3
-235. JackLathrop 3
-236. BabeRussin 3
-237. StewPletcher 3
-238. HerbieHaymer 3
-239. FrankSimeone 3
-240. Hankd'Amico 3
-241. FlipPhillips 3
-242. SlamStewart 3
-243. LesterBoone 3
-244. GusJohnson 3
-245. JoePass 3
-246. JimmyRowles 3
-247. MajorHolley 3
-248. EddieLocke 3
-249. CarlPruitt 3
-250. Sylvester"Vess"Payne 3
-251. ArtTatum 3
-252. GeneAnderson 3
-253. ZilnerRandolph 3
-254. BigMikeMcKendrick 3
-255. LouisBacon 3
-256. BingieMadison 3
-257. LeeBlair 3
-258. JimmyDorsey 2
-259. CarlKress 2
-260. StanKing 2
-261. BobbyHackett 2
-262. FrankFoeba 2
-263. HenryAllen 2
-264. GreelyWalton 2
-265. GilRodin 2
-266. LarryBinyon 2
-267. RayBauduc 2
-268. CharlieSpivak 2
-269. YankLawson 2
-270. RalphEscudero 2
-271. IrvingRandolph 2
-272. HiltonJefferson 2
-273. WalterJohnson 2
-274. ElmerWilliams 2
-275. BobLessey 2
-276. LangstonCurl 2
-277. RussCase 2
-278. JackLacey 2
-279. ClaudeThornhill 2
-280. GeorgeVanEps 2
-281. HankWayland 2
-282. WillHudson 2
-283. NateKazebier 2
-284. RalphMuzillo 2
-285. ArtRollini 2
-286. Gordon"Chris"Griffin 2
-287. MurrayMcEachern 2
-288. NoniBernardi 2
-289. TedVesely 2
-290. BusBassey 2
-291. AlecFila 2
-292. IrvingGoodman 2
-293. Al"Slim"Davis 2
-294. MelPowell 2
-295. MartyBlitz 2
-296. JimmyKnepper 2
-297. PhilWoods 2
-298. ZootSims 2
-299. SheltonHemphill 2
-300. GeorgeWashington 2
-301. O'NeilSpencer 2
-302. ChuckRichards 2
-303. TabSmith 2
-304. AndyFerretti 2
-305. PaulWeston 2
-306. JoeBauer 2
-307. JoeDixon 2
-308. RedBone 2
-309. JohnnyMince 2
-310. MikeDoty 2
-311. HowardSmith 2
-312. Arthur"Skeets"Herfurt 2
-313. AlexBeller 2
-314. SyOliver 2
-315. AlGeorge 2
-316. RayTriscari 2
-317. GordonBoswell 2
-318. JohnBello 2
-319. FrankRosolino 2
-320. AllanLangstaff 2
-321. FrankRehak 2
-322. WalterRobertson 2
-323. LennyHambro 2
-324. JerryTherkelo 2
-325. BuddyWise 2
-326. CarlFriend 2
-327. DaleKeever 2
-328. JoeCohen 2
-329. RalphBlaze 2
-330. DonSimpson 2
-331. HernandoBravo 2
-332. EdwardInge 2
-333. RobertCarroll 2
-334. BobYsaguirre 2
-335. ManzieJohnson 2
-336. TommyStevenson 2
-337. AlKillian 2
-338. GeneSimon 2
-339. ScovilleBrown 2
-340. JimmyArchey 2
-341. StanleyPayne 2
-342. WalterFuller 2
-343. DarnellHoward 2
-344. OmerSimeon 2
-345. QuinnWilson 2
-346. JoeMcLewis 2
-347. LeroyHarris 2
-348. RobertCrowder 2
-349. AlvinBurroughs 2
-350. BillyEckstine 2
-351. GeorgeHunt 2
-352. FranzJackson 2
-353. RichardDavis 2
-354. LouisPrima 2
-355. PeeWeeRussell 2
-356. Elmer"Skippy"Williams 2
-357. WaymanCarver 2
-358. DonKirkpatrick 2
-359. GeorgeArus 2
-360. HankFreeman 2
-361. TonyPastor 2
-362. LesBurness 2
-363. AlAvola 2
-364. CliffLeeman 2
-365. ChuckPeterson 2
-366. MannieKlein 2
-367. HarryBluestone 2
-368. DavidSterkin 2
-369. AlHendrickson 2
-370. EugeneLamas 2
-371. FredGoerner 2
-372. PaulCohen 2
-373. BernieGlow 2
-374. GeorgeSchwartz 2
-375. AugustinoIschia 2
-376. GusDixon 2
-377. BobSwift 2
-378. OllieWilson 2
-379. LouisPrisby 2
-380. RudyTanza 2
-381. JonWalton 2
-382. MorrisRayman 2
-383. LouisFromm 2
-384. HalDerwin 2
-385. HalStevens 2
-386. GeorgeSiravo 2
-387. VinceDeRosa 2
-388. ReubenReeves 2
-389. JimmySmith 2
-390. EdwinSwayzee 2
-391. ArvilleHarris 2
-392. BenniePayne 2
-393. LeroyMaxey 2
-394. PaulWebster 2
-395. ElmerCrumbley 2
-396. RussellBowles 2
-397. TrummyYoung 2
-398. EarlCarruthers 2
-399. DanGrissom 2
-400. JimmieLunceford 2
-401. TedBuckner 2
-402. EdwinWilcox 2
-403. AlNorris 2
-404. MosesAllen 2
-405. HotLipsPage 2
-406. PeanutsHolland 2
-407. SnubMosley 2
-408. EddieDurham 2
-409. ShadCollins 2
-410. GeorgeMatthews 2
-411. EmmettBerry 2
-412. Eddie"Lockjaw"Davis 2
-413. BillyMitchell 2
-414. DonRader 2
-415. FipRicard 2
-416. BuddyCatlett 2
-417. NormanKeenan 2
-418. JohnCWilliams 2
-419. MelWanzo 2
-420. KennyHing 2
-421. ClevelandEaton 2
-422. Joe'TrickySam'Nanton 2
-423. ArthurWhetsol 2
-424. BrittWoodman 2
-425. JohnSanders 2
-426. JimmyWoode 2
-427. MahaliaJackson 2
-428. Harold"Shorty"Baker 2
-429. HerbieJones 2
-430. MercerEllington 2
-431. BusterCooper 2
-432. ChuckConnors 2
-433. RufusJones 2
-434. LymanVunk 2
-435. CharlieBarnet 2
-436. KurtBloom 2
-437. MarionHutton 2
-438. DickFisher 2
-439. ZekeZarchy 2
-440. RayAnthony 2
-441. TriggerAlpert 2
-442. TheModernaires 2
-443. BillHyland 2
-444. JoeLiss 2
-445. CharlieShavers 2
-446. BillyKyle 2
-447. CharlesLamphere 2
-448. JimmyBlake 2
-449. BarneyZudecoff 2
-450. AllenHanlon 2
-451. CharlieParker 2
-452. SpecsPowell 2
-453. CharlesMingus 2
-454. MezzMezzrow 2
-455. AlCasey 2
-456. BillyTaylor 2
-457. MiltBuckner 2
-458. BillyMackel 2
+122. Red Callender 5
+123. Albert Nicholas 4
+124. Otis Johnson 4
+125. Bobby Stark 4
+126. Joe Thomas 4
+127. Allan Reuss 4
+128. Bud Freeman 4
+129. Nick Fatool 4
+130. Skippy Martin 4
+131. Johnny Guarnieri 4
+132. Gene Traxler 4
+133. Edythe Wright 4
+134. Dick Jones 4
+135. Fred Robinson 4
+136. Jimmy Mundy 4
+137. Mario Bauza 4
+138. Sandy Williams 4
+139. John Trueheart 4
+140. Chick Webb 4
+141. Barry Rogers 4
+142. Jerry Gray 4
+143. Dodo Marmarosa 4
+144. De Priest Wheeler 4
+145. Andrew Brown 4
+146. Doc Cheatham 4
+147. Ed Lewis 4
+148. Henry Coker 4
+149. Grover Mitchell 4
+150. Juan Tizol 4
+151. Cat Anderson 4
+152. Aaron Bell 4
+153. Leigh Knowles 4
+154. Al Mastren 4
+155. Rollie Bundock 4
+156. Jimmy Priddy 4
+157. Ernie Caceres 4
+158. Eddie Sauter 4
+159. Dicky Wells 4
+160. Alvin Stoller 4
+161. Oscar Pettiford 4
+162. Max Roach 4
+163. Tommy Flanagan 4
+164. Dick Mc Donough 3
+165. Will Johnson 3
+166. Charlie Green 3
+167. Charlie Dixon 3
+168. Kaiser Marshall 3
+169. Benny Morton 3
+170. Keg Johnson 3
+171. Lawrence Lucie 3
+172. Elmer James 3
+173. Arthur Rollini 3
+174. Dean Kincaide 3
+175. Goodman 3
+176. Dick Clark 3
+177. Harry James 3
+178. Ziggy Elman 3
+179. Vido Musso 3
+180. Vernon Brown 3
+181. Dave Matthews 3
+182. Jerry Jerome 3
+183. Lou Mc Garity 3
+184. Cutty Cutshall 3
+185. Georgie Auld 3
+186. Clint Neagley 3
+187. George Berg 3
+188. Tom Morgan 3
+189. Mel Lewis 3
+190. Crawford Wethington 3
+191. Lawrence "Larry" Lucie 3
+192. Clyde Rounds 3
+193. Les Jenkins 3
+194. Fred Stulce 3
+195. Carmen Mastren 3
+196. Jack Leonard 3
+197. David Rose 3
+198. George Wettling 3
+199. Don Fagerquist 3
+200. Buster Smith 3
+201. Jimmy Powell 3
+202. Eddie Heywood 3
+203. George Dixon 3
+204. Taft Jordan 3
+205. Les Robinson 3
+206. Jud De Naut 3
+207. Jack Jenney 3
+208. Ray Conniff 3
+209. Buster Harding 3
+210. Artie Shapiro 3
+211. Walter "Foots" Thomas 3
+212. Morris White 3
+213. Cab Calloway 3
+214. Eddie Barefield 3
+215. Danny Barker 3
+216. Willie Smith 3
+217. Jimmy Rushing 3
+218. Earl Warren 3
+219. Buddy Tate 3
+220. Freddy Green 3
+221. Illinois Jacquet 3
+222. Al Aarons 3
+223. Urbie Green 3
+224. Bobby Plater 3
+225. Danny Turner 3
+226. Otto Hardwicke 3
+227. Wellman Braud 3
+228. Joe Nanton 3
+229. Wallace Jones 3
+230. Jimmy Blanton 3
+231. Quentin Jackson 3
+232. Bill Miller 3
+233. Bill Finegan 3
+234. Clyde Hurley 3
+235. Jack Lathrop 3
+236. Babe Russin 3
+237. Stew Pletcher 3
+238. Herbie Haymer 3
+239. Frank Simeone 3
+240. Hankd 'Amico 3
+241. Flip Phillips 3
+242. Slam Stewart 3
+243. Lester Boone 3
+244. Gus Johnson 3
+245. Joe Pass 3
+246. Jimmy Rowles 3
+247. Major Holley 3
+248. Eddie Locke 3
+249. Carl Pruitt 3
+250. Sylvester "Vess" Payne 3
+251. Art Tatum 3
+252. Gene Anderson 3
+253. Zilner Randolph 3
+254. Big Mike Mc Kendrick 3
+255. Louis Bacon 3
+256. Bingie Madison 3
+257. Lee Blair 3
+258. Jimmy Dorsey 2
+259. Carl Kress 2
+260. Stan King 2
+261. Bobby Hackett 2
+262. Frank Foeba 2
+263. Henry Allen 2
+264. Greely Walton 2
+265. Gil Rodin 2
+266. Larry Binyon 2
+267. Ray Bauduc 2
+268. Charlie Spivak 2
+269. Yank Lawson 2
+270. Ralph Escudero 2
+271. Irving Randolph 2
+272. Hilton Jefferson 2
+273. Walter Johnson 2
+274. Elmer Williams 2
+275. Bob Lessey 2
+276. Langston Curl 2
+277. Russ Case 2
+278. Jack Lacey 2
+279. Claude Thornhill 2
+280. George Van Eps 2
+281. Hank Wayland 2
+282. Will Hudson 2
+283. Nate Kazebier 2
+284. Ralph Muzillo 2
+285. Art Rollini 2
+286. Gordon "Chris" Griffin 2
+287. Murray Mc Eachern 2
+288. Noni Bernardi 2
+289. Ted Vesely 2
+290. Bus Bassey 2
+291. Alec Fila 2
+292. Irving Goodman 2
+293. Al "Slim" Davis 2
+294. Mel Powell 2
+295. Marty Blitz 2
+296. Jimmy Knepper 2
+297. Phil Woods 2
+298. Zoot Sims 2
+299. Shelton Hemphill 2
+300. George Washington 2
+301. O 'Neil Spencer 2
+302. Chuck Richards 2
+303. Tab Smith 2
+304. Andy Ferretti 2
+305. Paul Weston 2
+306. Joe Bauer 2
+307. Joe Dixon 2
+308. Red Bone 2
+309. Johnny Mince 2
+310. Mike Doty 2
+311. Howard Smith 2
+312. Arthur "Skeets" Herfurt 2
+313. Alex Beller 2
+314. Sy Oliver 2
+315. Al George 2
+316. Ray Triscari 2
+317. Gordon Boswell 2
+318. John Bello 2
+319. Frank Rosolino 2
+320. Allan Langstaff 2
+321. Frank Rehak 2
+322. Walter Robertson 2
+323. Lenny Hambro 2
+324. Jerry Therkelo 2
+325. Buddy Wise 2
+326. Carl Friend 2
+327. Dale Keever 2
+328. Joe Cohen 2
+329. Ralph Blaze 2
+330. Don Simpson 2
+331. Hernando Bravo 2
+332. Edward Inge 2
+333. Robert Carroll 2
+334. Bob Ysaguirre 2
+335. Manzie Johnson 2
+336. Tommy Stevenson 2
+337. Al Killian 2
+338. Gene Simon 2
+339. Scoville Brown 2
+340. Jimmy Archey 2
+341. Stanley Payne 2
+342. Walter Fuller 2
+343. Darnell Howard 2
+344. Omer Simeon 2
+345. Quinn Wilson 2
+346. Joe Mc Lewis 2
+347. Leroy Harris 2
+348. Robert Crowder 2
+349. Alvin Burroughs 2
+350. Billy Eckstine 2
+351. George Hunt 2
+352. Franz Jackson 2
+353. Richard Davis 2
+354. Louis Prima 2
+355. Pee Wee Russell 2
+356. Elmer "Skippy" Williams 2
+357. Wayman Carver 2
+358. Don Kirkpatrick 2
+359. George Arus 2
+360. Hank Freeman 2
+361. Tony Pastor 2
+362. Les Burness 2
+363. Al Avola 2
+364. Cliff Leeman 2
+365. Chuck Peterson 2
+366. Mannie Klein 2
+367. Harry Bluestone 2
+368. David Sterkin 2
+369. Al Hendrickson 2
+370. Eugene Lamas 2
+371. Fred Goerner 2
+372. Paul Cohen 2
+373. Bernie Glow 2
+374. George Schwartz 2
+375. Augustino Ischia 2
+376. Gus Dixon 2
+377. Bob Swift 2
+378. Ollie Wilson 2
+379. Louis Prisby 2
+380. Rudy Tanza 2
+381. Jon Walton 2
+382. Morris Rayman 2
+383. Louis Fromm 2
+384. Hal Derwin 2
+385. Hal Stevens 2
+386. George Siravo 2
+387. Vince De Rosa 2
+388. Reuben Reeves 2
+389. Jimmy Smith 2
+390. Edwin Swayzee 2
+391. Arville Harris 2
+392. Bennie Payne 2
+393. Leroy Maxey 2
+394. Paul Webster 2
+395. Elmer Crumbley 2
+396. Russell Bowles 2
+397. Trummy Young 2
+398. Earl Carruthers 2
+399. Dan Grissom 2
+400. Jimmie Lunceford 2
+401. Ted Buckner 2
+402. Edwin Wilcox 2
+403. Al Norris 2
+404. Moses Allen 2
+405. Hot Lips Page 2
+406. Peanuts Holland 2
+407. Snub Mosley 2
+408. Eddie Durham 2
+409. Shad Collins 2
+410. George Matthews 2
+411. Emmett Berry 2
+412. Eddie "Lockjaw" Davis 2
+413. Billy Mitchell 2
+414. Don Rader 2
+415. Fip Ricard 2
+416. Buddy Catlett 2
+417. Norman Keenan 2
+418. John CWilliams 2
+419. Mel Wanzo 2
+420. Kenny Hing 2
+421. Cleveland Eaton 2
+422. Joe 'Tricky Sam' Nanton 2
+423. Arthur Whetsol 2
+424. Britt Woodman 2
+425. John Sanders 2
+426. Jimmy Woode 2
+427. Mahalia Jackson 2
+428. Harold "Shorty" Baker 2
+429. Herbie Jones 2
+430. Mercer Ellington 2
+431. Buster Cooper 2
+432. Chuck Connors 2
+433. Rufus Jones 2
+434. Lyman Vunk 2
+435. Charlie Barnet 2
+436. Kurt Bloom 2
+437. Marion Hutton 2
+438. Dick Fisher 2
+439. Zeke Zarchy 2
+440. Ray Anthony 2
+441. Trigger Alpert 2
+442. The Modernaires 2
+443. Bill Hyland 2
+444. Joe Liss 2
+445. Charlie Shavers 2
+446. Billy Kyle 2
+447. Charles Lamphere 2
+448. Jimmy Blake 2
+449. Barney Zudecoff 2
+450. Allen Hanlon 2
+451. Charlie Parker 2
+452. Specs Powell 2
+453. Charles Mingus 2
+454. Mezz Mezzrow 2
+455. Al Casey 2
+456. Billy Taylor 2
+457. Milt Buckner 2
+458. Billy Mackel 2
 459. Reinhardt 2
-460. BillColeman 2
-461. JoeBushkin 2
-462. SonnyWhite 2
-463. JohnWilliams 2
-464. GerryMulligan 2
-465. MalWaldron 2
-466. BarryGalbraith 2
-467. PaulSmith 2
-468. JoeMondragon 2
-469. LouisBellson 2
-470. LouLevy 2
-471. WilfredMiddlebrooks 2
-472. ShellyManne 2
-473. BernardAddison 2
-474. SidCatlett 2
-475. DenzilBest 2
-476. HowardMcGhee 2
-477. FatsNavarro 2
-478. BobCranshaw 2
-479. GusAiken 2
-480. JoeEldridge 2
-481. JimmyJones 2
-482. LesSpann 2
-483. SamJones 2
-484. RodneyRichardson 2
-485. JoeZawinul 2
-486. PhillyJoeJones 2
-487. Eddie"Cleanhead"Vinson 2
-488. BudPowell 2
-489. Sam"TheMan"Taylor 2
-490. HomerHobson 2
-491. JimmyStrong 2
-492. BertCurry 2
-493. CarrollDickerson 2
-494. MancyCarr 2
-495. PeteBriggs 2
-496. ZuttySingleton 2
-497. TeddyHill 2
-498. PrestonJackson 2
-499. GeorgeJames 2
-500. AlWashington 2
-501. CharlieAlexander 2
-502. JohnLindsay 2
-503. TubbyHall 2
-504. MickeyBloom-FuzzyFarrar 1
-505. ArnoldBrilhart 1
-506. HerbertSpencer 1
-507. ArthurSchutt 1
-508. AdrianRollini 1
-509. ChaunceyMorehouse 1
-510. SegerEllis 1
-511. JoeHostetter 1
-512. BobbyJones 1
-513. PeeWeeHunt 1
-514. BillyRauch 1
-515. GlenGray 1
-516. PatDavis 1
-517. MelJenssen 1
-518. JoeHall 1
-519. GeneGifford 1
-520. StanleyDennis 1
-521. TonyBriglia 1
-522. JackRichmond 1
-523. HenryBiagini 1
-524. FrankMartinez 1
-525. TheBoswellSisters 1
-526. JoeVenuti 1
-527. MarthaBoswell 1
-528. JoeTarto 1
-529. PattiAndrews 1
-530. MaxineAndrews 1
-531. LaVerneAndrews 1
-532. VicSchoen 1
-533. AlPhilburn 1
-534. DonWatt 1
-535. HaigStevens 1
-536. HarryMills 1
-537. LouisMetcalf 1
-538. DavidBee 1
-539. JimmyMcPartland 1
-540. AlHarris 1
-541. JackTeagarden 1
-542. VicBreidis 1
-543. EdBergman 1
-544. AlBeller 1
-545. BillSchumann 1
-546. DickMorgan 1
-547. ScrappyLambert 1
-548. WardSilloway 1
-549. WarrenSmith 1
-550. MattyMatlock 1
-551. JoeKearns 1
-552. EddieMiller 1
-553. BobZurke 1
-554. NappyLamare 1
-555. BobHaggart 1
-556. BobCrosby 1
-557. KayWeber 1
-558. HowardScott 1
-559. ElmerChambers 1
-560. JoeSmith 1
-561. samepersbutRexStewart 1
-562. TommyLadnier 1
-563. JimmyHarrison 1
-564. JeromePasqual 1
-565. JuneCole 1
-566. HarveyBoone 1
-567. ClarenceHoliday 1
-568. DickVance 1
-569. FernandoArbello 1
-570. EdCuffee 1
-571. "Scoops"Carey 1
-572. JohnNesbitt 1
-573. MiltonSenior 1
-574. GeorgeThomas 1
-575. PrinceRobinson 1
-576. ToddRhodes 1
-577. DaveWilborn 1
-578. CubaAustin 1
-579. JerryNeary 1
-580. SamShapiro 1
-581. BenKantor 1
-582. SamWeiss 1
-583. AnnGraham 1
-584. TootsMandello 1
-585. GeorgevanEps 1
-586. HarryGeller 1
-587. JoeHarris 1
-588. BillDePew 1
-589. GeorgeKoenig 1
-590. BenHeller 1
-591. JohnnyMartell 1
-592. TootsMondello 1
-593. BuffEstes 1
-594. ArnoldCovey 1
-595. GusBivona 1
-596. BobSnyder 1
-597. JackHenderson 1
-598. BernieLeighton 1
-599. MikeBryan 1
-600. HarryJaeger 1
-601. PeggyLee 1
-602. JoeWilder 1
-603. JohnFrosk 1
-604. WayneAndre 1
-605. WillieDennis 1
-606. JerryDodgion 1
-607. TommyNewsom 1
-608. GeneAllen 1
-609. JohnBunch 1
-610. TurkVanLake 1
-611. BillCrow 1
-612. VictorFeldman 1
-613. WardellJones 1
-614. GeneMikell 1
-615. JoeGarland 1
-616. EdgarHayes 1
-617. AlexHill 1
-618. LuckyMillinder 1
-619. SterlingBose 1
-620. CliffWeston 1
-621. BenPickering 1
-622. DaveJacobs 1
-623. SidStoneburn 1
-624. JohnVanEps 1
-625. PaulMitchell 1
-626. MacCheikes 1
-627. SamRosen 1
-628. Claude"Spud"Murphy 1
-629. BobCusumano 1
-630. TheThreeEsquires 1
-631. JimmyWelch 1
-632. PeeWeeErwin 1
-633. BuddyMorrow 1
-634. MoePurtill 1
-635. MaxKaminsky 1
-636. GeorgeSeaburg 1
-637. MickeyMangano 1
-638. DalePierce 1
-639. RogerEllick 1
-640. NelsonRiddle 1
-641. RedBenson 1
-642. TexSatterwaite 1
-643. BuddyDeFranco 1
-644. GailCurtis 1
-645. BruceBranson 1
-646. MiltGolden 1
-647. BobBain 1
-648. SidBloch 1
-649. LeonardAtkins 1
-650. BernardTinterow 1
-651. PeterDimitriades 1
-652. MannyFiddler 1
-653. RuthGoodman 1
-654. JosephGoodman 1
-655. MiltonThomas 1
-656. DavidUchitel 1
-657. FredCamelia 1
-658. RebaRobinson 1
-659. JoePark 1
-660. BobAllen 1
-661. FreddyStewart 1
-662. BonnieLouWilliams 1
+460. Bill Coleman 2
+461. Joe Bushkin 2
+462. Sonny White 2
+463. John Williams 2
+464. Gerry Mulligan 2
+465. Mal Waldron 2
+466. Barry Galbraith 2
+467. Paul Smith 2
+468. Joe Mondragon 2
+469. Louis Bellson 2
+470. Lou Levy 2
+471. Wilfred Middlebrooks 2
+472. Shelly Manne 2
+473. Bernard Addison 2
+474. Sid Catlett 2
+475. Denzil Best 2
+476. Howard Mc Ghee 2
+477. Fats Navarro 2
+478. Bob Cranshaw 2
+479. Gus Aiken 2
+480. Joe Eldridge 2
+481. Jimmy Jones 2
+482. Les Spann 2
+483. Sam Jones 2
+484. Rodney Richardson 2
+485. Joe Zawinul 2
+486. Philly Joe Jones 2
+487. Eddie "Cleanhead" Vinson 2
+488. Bud Powell 2
+489. Sam "The Man" Taylor 2
+490. Homer Hobson 2
+491. Jimmy Strong 2
+492. Bert Curry 2
+493. Carroll Dickerson 2
+494. Mancy Carr 2
+495. Pete Briggs 2
+496. Zutty Singleton 2
+497. Teddy Hill 2
+498. Preston Jackson 2
+499. George James 2
+500. Al Washington 2
+501. Charlie Alexander 2
+502. John Lindsay 2
+503. Tubby Hall 2
+504. Mickey Bloom-Fuzzy Farrar 1
+505. Arnold Brilhart 1
+506. Herbert Spencer 1
+507. Arthur Schutt 1
+508. Adrian Rollini 1
+509. Chauncey Morehouse 1
+510. Seger Ellis 1
+511. Joe Hostetter 1
+512. Bobby Jones 1
+513. Pee Wee Hunt 1
+514. Billy Rauch 1
+515. Glen Gray 1
+516. Pat Davis 1
+517. Mel Jenssen 1
+518. Joe Hall 1
+519. Gene Gifford 1
+520. Stanley Dennis 1
+521. Tony Briglia 1
+522. Jack Richmond 1
+523. Henry Biagini 1
+524. Frank Martinez 1
+525. The Boswell Sisters 1
+526. Joe Venuti 1
+527. Martha Boswell 1
+528. Joe Tarto 1
+529. Patti Andrews 1
+530. Maxine Andrews 1
+531. La Verne Andrews 1
+532. Vic Schoen 1
+533. Al Philburn 1
+534. Don Watt 1
+535. Haig Stevens 1
+536. Harry Mills 1
+537. Louis Metcalf 1
+538. David Bee 1
+539. Jimmy Mc Partland 1
+540. Al Harris 1
+541. Jack Teagarden 1
+542. Vic Breidis 1
+543. Ed Bergman 1
+544. Al Beller 1
+545. Bill Schumann 1
+546. Dick Morgan 1
+547. Scrappy Lambert 1
+548. Ward Silloway 1
+549. Warren Smith 1
+550. Matty Matlock 1
+551. Joe Kearns 1
+552. Eddie Miller 1
+553. Bob Zurke 1
+554. Nappy Lamare 1
+555. Bob Haggart 1
+556. Bob Crosby 1
+557. Kay Weber 1
+558. Howard Scott 1
+559. Elmer Chambers 1
+560. Joe Smith 1
+561. samepersbut Rex Stewart 1
+562. Tommy Ladnier 1
+563. Jimmy Harrison 1
+564. Jerome Pasqual 1
+565. June Cole 1
+566. Harvey Boone 1
+567. Clarence Holiday 1
+568. Dick Vance 1
+569. Fernando Arbello 1
+570. Ed Cuffee 1
+571. "Scoops "Carey 1
+572. John Nesbitt 1
+573. Milton Senior 1
+574. George Thomas 1
+575. Prince Robinson 1
+576. Todd Rhodes 1
+577. Dave Wilborn 1
+578. Cuba Austin 1
+579. Jerry Neary 1
+580. Sam Shapiro 1
+581. Ben Kantor 1
+582. Sam Weiss 1
+583. Ann Graham 1
+584. Toots Mandello 1
+585. Georgevan Eps 1
+586. Harry Geller 1
+587. Joe Harris 1
+588. Bill De Pew 1
+589. George Koenig 1
+590. Ben Heller 1
+591. Johnny Martell 1
+592. Toots Mondello 1
+593. Buff Estes 1
+594. Arnold Covey 1
+595. Gus Bivona 1
+596. Bob Snyder 1
+597. Jack Henderson 1
+598. Bernie Leighton 1
+599. Mike Bryan 1
+600. Harry Jaeger 1
+601. Peggy Lee 1
+602. Joe Wilder 1
+603. John Frosk 1
+604. Wayne Andre 1
+605. Willie Dennis 1
+606. Jerry Dodgion 1
+607. Tommy Newsom 1
+608. Gene Allen 1
+609. John Bunch 1
+610. Turk Van Lake 1
+611. Bill Crow 1
+612. Victor Feldman 1
+613. Wardell Jones 1
+614. Gene Mikell 1
+615. Joe Garland 1
+616. Edgar Hayes 1
+617. Alex Hill 1
+618. Lucky Millinder 1
+619. Sterling Bose 1
+620. Cliff Weston 1
+621. Ben Pickering 1
+622. Dave Jacobs 1
+623. Sid Stoneburn 1
+624. John Van Eps 1
+625. Paul Mitchell 1
+626. Mac Cheikes 1
+627. Sam Rosen 1
+628. Claude "Spud" Murphy 1
+629. Bob Cusumano 1
+630. The Three Esquires 1
+631. Jimmy Welch 1
+632. Pee Wee Erwin 1
+633. Buddy Morrow 1
+634. Moe Purtill 1
+635. Max Kaminsky 1
+636. George Seaburg 1
+637. Mickey Mangano 1
+638. Dale Pierce 1
+639. Roger Ellick 1
+640. Nelson Riddle 1
+641. Red Benson 1
+642. Tex Satterwaite 1
+643. Buddy De Franco 1
+644. Gail Curtis 1
+645. Bruce Branson 1
+646. Milt Golden 1
+647. Bob Bain 1
+648. Sid Bloch 1
+649. Leonard Atkins 1
+650. Bernard Tinterow 1
+651. Peter Dimitriades 1
+652. Manny Fiddler 1
+653. Ruth Goodman 1
+654. Joseph Goodman 1
+655. Milton Thomas 1
+656. David Uchitel 1
+657. Fred Camelia 1
+658. Reba Robinson 1
+659. Joe Park 1
+660. Bob Allen 1
+661. Freddy Stewart 1
+662. Bonnie Lou Williams 1
 663. Sentimentalists 1
-664. SteveLipkins 1
-665. SonnyLee 1
-666. JoeLippman 1
-667. GailReese 1
-668. NormanMurphy 1
-669. TorgHalten 1
-670. GrahamYoung 1
-671. JohnGrassi 1
-672. JayKelliher 1
-673. BabeWagner 1
-674. SamMusiker 1
-675. Mascagni"Musky"Ruffo 1
-676. WalterBates 1
-677. BobKitsis 1
-678. RemoBiondi 1
-679. Ovid"Biddy"Bastien 1
-680. Ramon"Sonny"Rivera 1
-681. DeloresHawkins 1
-682. BillBlack 1
+664. Steve Lipkins 1
+665. Sonny Lee 1
+666. Joe Lippman 1
+667. Gail Reese 1
+668. Norman Murphy 1
+669. Torg Halten 1
+670. Graham Young 1
+671. John Grassi 1
+672. Jay Kelliher 1
+673. Babe Wagner 1
+674. Sam Musiker 1
+675. Mascagni "Musky" Ruffo 1
+676. Walter Bates 1
+677. Bob Kitsis 1
+678. Remo Biondi 1
+679. Ovid "Biddy" Bastien 1
+680. Ramon "Sonny" Rivera 1
+681. Delores Hawkins 1
+682. Bill Black 1
 683. Ramon“Sonny”Rivera 1
-684. RupertCole 1
-685. HoraceHenderson 1
-686. TalcottReeves 1
-687. LoisDeppe 1
-688. ShirleyClay 1
-689. SidneyDeParis 1
-690. HarlanLattimore 1
-691. TapleyLewis 1
-692. NicholasRodriguez 1
-693. BootsieGarrison 1
-694. LincolnMills 1
-695. CarlFrey 1
-696. UlyssesLivingston 1
-697. HayesAlvis 1
-698. orTedFields 1
-699. KegPurnell 1
-700. CharlieRouse 1
-701. DickKatz 1
-702. JohnCollins 1
-703. JimmyGarrison 1
-704. CharlieAllen 1
-705. LouisTaylor 1
-706. WilliamFranklin 1
-707. CecilIrwin 1
-708. LawrenceDixon 1
-709. WallaceBishop 1
-710. HenryWoodip 1
-711. ValaidaSnow 1
-712. MiltonFletcher 1
-713. EdwardSims 1
-714. EdwardBurke 1
-715. JohnEwing 1
-716. ClaudeRobertson 1
-717. EarlHinesGeorgeDixon 1
-718. ScoopsCarey 1
-719. WillieRandall 1
-720. TruckParham 1
-721. RudolphTaylor 1
-722. MadelineGreene 1
-723. TheThreeVarieties 1
-724. JesseMiller 1
-725. GeraldValentine 1
-726. MauriceMcConnell 1
-727. SkeeterBest 1
-728. KennyBurrell 1
-729. JoeMarshall 1
-730. GeneLafreniere 1
-731. DennyDonaldson 1
-732. BillAtkinson 1
-733. GeorgeMoore 1
-734. PeytonLegare 1
-735. JoeCatalyne 1
-736. FrankPinero 1
-737. GarryMcAdams 1
-738. JackRyan 1
-739. GeorgePemberty 1
-740. TheThreeStaffordSisters 1
-741. Jimmie"LittleRed"Blount 1
-742. SamButera 1
-743. William"Willie"McCumber 1
-744. JackMarshall 1
-745. AmadoRodriques 1
-746. Robert"Bobby"Morris 1
-747. JoeSteele 1
-748. CharlesLinton 1
-749. TommyDiCarlo 1
-750. MalcolmCrain 1
-751. JulesRubin 1
-752. BenGinsberg 1
-753. Beatrice"Bea"Wain 1
-754. LeoWatson 1
-755. ClaudeBowen 1
-756. RonniePerry 1
-757. SidWeiss 1
-758. CharlieMargulis 1
-759. GeorgeThow 1
-760. BabeBowman 1
-761. RandallMiller 1
-762. BillRank 1
-763. JohnCave 1
-764. MortRuderman 1
-765. PhilNemoli 1
-766. JoeKrechter 1
-767. BlakeReynolds 1
-768. BudCarlton 1
-769. JackStacey 1
-770. RobertBarene 1
-771. SidBrokaw 1
-772. DaveCracov 1
-773. PeterEisenberg 1
-774. AlexLaw 1
-775. MarkLevant 1
-776. JerryJoyce 1
-777. JackGray 1
-778. StanleySpiegelman 1
-779. IrvLipschultz 1
-780. JuliusTannenbaum 1
-781. StanWrightsman 1
-782. BobbySherwood 1
-783. CarlMaus 1
-784. PaulineByrne 1
-785. JackCathcart 1
-786. GeorgeWendt 1
-787. NeelyPlumb 1
-788. TrumanBoardman 1
-789. TedKlages 1
-790. BillBrower 1
-791. BobMorrow 1
-792. AllanHarshman 1
-793. KeithCollins 1
-794. AnitaBoyer 1
-795. LennieHayton 1
-796. WilliamGrantStill 1
-797. HerbieSteward 1
-798. ArtieShawRoyEldridge 1
-799. RalphRoselund 1
-800. StanFishelson 1
-801. JamesStagliano 1
-802. JackKirksmith 1
-803. RichardPerissi 1
-804. JackMayhew 1
-805. HermanBerardinelli 1
-806. HaroldLawson 1
-807. JulesSeder 1
-808. CharlesGraver 1
-809. GordonPope 1
-810. HaroldLewis 1
-811. MarkMcIntyre 1
-812. KathrynThompson 1
-813. MarshallSosson 1
-814. MischaRussell 1
-815. NickPisani 1
-816. HaroldHalbert 1
-817. OlcottVail 1
-818. DavidFrisina 1
-819. PeterEllis 1
-820. SamuelCytron 1
-821. MorrisKing 1
-822. GeorgeKast 1
-823. SamFreed 1
-824. MauricePerlmutter 1
-825. PaulRobyn 1
-826. EdgarLustgarten 1
-827. CyBernard 1
-828. NicholasOchi-Albi 1
-829. MannyStein 1
-830. NatGangursky 1
-831. LouSinger 1
-832. NickGaletta 1
-833. OliverSuderman 1
-834. TommyGonsoulin 1
-835. HenrySinger 1
-836. RayNoonan 1
-837. HugoWinterhalter 1
-838. LarryGordon 1
-839. MarioDallolio 1
-840. BunnyBardach 1
-841. ArnoldRoss 1
-842. AlCosti 1
-843. IggyShevak 1
-844. PaulRichter 1
-845. MeredithBlake 1
+684. Rupert Cole 1
+685. Horace Henderson 1
+686. Talcott Reeves 1
+687. Lois Deppe 1
+688. Shirley Clay 1
+689. Sidney De Paris 1
+690. Harlan Lattimore 1
+691. Tapley Lewis 1
+692. Nicholas Rodriguez 1
+693. Bootsie Garrison 1
+694. Lincoln Mills 1
+695. Carl Frey 1
+696. Ulysses Livingston 1
+697. Hayes Alvis 1
+698. or Ted Fields 1
+699. Keg Purnell 1
+700. Charlie Rouse 1
+701. Dick Katz 1
+702. John Collins 1
+703. Jimmy Garrison 1
+704. Charlie Allen 1
+705. Louis Taylor 1
+706. William Franklin 1
+707. Cecil Irwin 1
+708. Lawrence Dixon 1
+709. Wallace Bishop 1
+710. Henry Woodip 1
+711. Valaida Snow 1
+712. Milton Fletcher 1
+713. Edward Sims 1
+714. Edward Burke 1
+715. John Ewing 1
+716. Claude Robertson 1
+717. Earl Hines George Dixon 1
+718. Scoops Carey 1
+719. Willie Randall 1
+720. Truck Parham 1
+721. Rudolph Taylor 1
+722. Madeline Greene 1
+723. The Three Varieties 1
+724. Jesse Miller 1
+725. Gerald Valentine 1
+726. Maurice Mc Connell 1
+727. Skeeter Best 1
+728. Kenny Burrell 1
+729. Joe Marshall 1
+730. Gene Lafreniere 1
+731. Denny Donaldson 1
+732. Bill Atkinson 1
+733. George Moore 1
+734. Peyton Legare 1
+735. Joe Catalyne 1
+736. Frank Pinero 1
+737. Garry Mc Adams 1
+738. Jack Ryan 1
+739. George Pemberty 1
+740. The Three Stafford Sisters 1
+741. Jimmie "Little Red" Blount 1
+742. Sam Butera 1
+743. William "Willie" Mc Cumber 1
+744. Jack Marshall 1
+745. Amado Rodriques 1
+746. Robert "Bobby" Morris 1
+747. Joe Steele 1
+748. Charles Linton 1
+749. Tommy Di Carlo 1
+750. Malcolm Crain 1
+751. Jules Rubin 1
+752. Ben Ginsberg 1
+753. Beatrice "Bea" Wain 1
+754. Leo Watson 1
+755. Claude Bowen 1
+756. Ronnie Perry 1
+757. Sid Weiss 1
+758. Charlie Margulis 1
+759. George Thow 1
+760. Babe Bowman 1
+761. Randall Miller 1
+762. Bill Rank 1
+763. John Cave 1
+764. Mort Ruderman 1
+765. Phil Nemoli 1
+766. Joe Krechter 1
+767. Blake Reynolds 1
+768. Bud Carlton 1
+769. Jack Stacey 1
+770. Robert Barene 1
+771. Sid Brokaw 1
+772. Dave Cracov 1
+773. Peter Eisenberg 1
+774. Alex Law 1
+775. Mark Levant 1
+776. Jerry Joyce 1
+777. Jack Gray 1
+778. Stanley Spiegelman 1
+779. Irv Lipschultz 1
+780. Julius Tannenbaum 1
+781. Stan Wrightsman 1
+782. Bobby Sherwood 1
+783. Carl Maus 1
+784. Pauline Byrne 1
+785. Jack Cathcart 1
+786. George Wendt 1
+787. Neely Plumb 1
+788. Truman Boardman 1
+789. Ted Klages 1
+790. Bill Brower 1
+791. Bob Morrow 1
+792. Allan Harshman 1
+793. Keith Collins 1
+794. Anita Boyer 1
+795. Lennie Hayton 1
+796. William Grant Still 1
+797. Herbie Steward 1
+798. Artie Shaw Roy Eldridge 1
+799. Ralph Roselund 1
+800. Stan Fishelson 1
+801. James Stagliano 1
+802. Jack Kirksmith 1
+803. Richard Perissi 1
+804. Jack Mayhew 1
+805. Herman Berardinelli 1
+806. Harold Lawson 1
+807. Jules Seder 1
+808. Charles Graver 1
+809. Gordon Pope 1
+810. Harold Lewis 1
+811. Mark Mc Intyre 1
+812. Kathryn Thompson 1
+813. Marshall Sosson 1
+814. Mischa Russell 1
+815. Nick Pisani 1
+816. Harold Halbert 1
+817. Olcott Vail 1
+818. David Frisina 1
+819. Peter Ellis 1
+820. Samuel Cytron 1
+821. Morris King 1
+822. George Kast 1
+823. Sam Freed 1
+824. Maurice Perlmutter 1
+825. Paul Robyn 1
+826. Edgar Lustgarten 1
+827. Cy Bernard 1
+828. Nicholas Ochi-Albi 1
+829. Manny Stein 1
+830. Nat Gangursky 1
+831. Lou Singer 1
+832. Nick Galetta 1
+833. Oliver Suderman 1
+834. Tommy Gonsoulin 1
+835. Henry Singer 1
+836. Ray Noonan 1
+837. Hugo Winterhalter 1
+838. Larry Gordon 1
+839. Mario Dallolio 1
+840. Bunny Bardach 1
+841. Arnold Ross 1
+842. Al Costi 1
+843. Iggy Shevak 1
+844. Paul Richter 1
+845. Meredith Blake 1
 846. Dickerson 1
-847. HarryWhite 1
-848. WalterThomas 1
-849. BennyPayne 1
-850. AlMorgan 1
-851. ChaunceyHaughton 1
-852. ChappieWillett 1
-853. EddieTompkins 1
+847. Harry White 1
+848. Walter Thomas 1
+849. Benny Payne 1
+850. Al Morgan 1
+851. Chauncey Haughton 1
+852. Chappie Willett 1
+853. Eddie Tompkins 1
 854. Jimmy 1
-855. WillBeines 1
-856. JesseStone 1
-857. GeraldWilson 1
-858. JimDavison 1
-859. GeorgeConnell 1
-860. FrankBarnard 1
-861. GeorgeGuerette 1
-862. JackMadden 1
-863. HerbMason 1
-864. TedDavison 1
-865. HowardCampbell 1
-866. VernKahanen 1
-867. JohnnyBurt 1
-868. RedMcGarvie 1
-869. CliffTimms 1
-870. CliffCadman 1
-871. JackNeilson 1
-872. JoeNiosi 1
-873. BillHarty 1
-874. ReefMcGarvey 1
-875. RayNoble 1
-876. JamesSimpson 1
-877. TedManning 1
-878. ReubenRoddy 1
-879. CharlieWashington 1
-880. ReubenLynch 1
-881. orThomasOwens 1
-882. ChesterClark 1
-883. Harry"Sweets"Edison 1
-884. GusWilson 1
-885. JamesJeter 1
-886. ChesterPillars 1
-887. HayesPillars 1
-888. LeeHilliard 1
-889. AndersonLacy 1
-890. EugeneCrooke 1
-891. Robert"Eppie"Jackson 1
+855. Will Beines 1
+856. Jesse Stone 1
+857. Gerald Wilson 1
+858. Jim Davison 1
+859. George Connell 1
+860. Frank Barnard 1
+861. George Guerette 1
+862. Jack Madden 1
+863. Herb Mason 1
+864. Ted Davison 1
+865. Howard Campbell 1
+866. Vern Kahanen 1
+867. Johnny Burt 1
+868. Red Mc Garvie 1
+869. Cliff Timms 1
+870. Cliff Cadman 1
+871. Jack Neilson 1
+872. Joe Niosi 1
+873. Bill Harty 1
+874. Reef Mc Garvey 1
+875. Ray Noble 1
+876. James Simpson 1
+877. Ted Manning 1
+878. Reuben Roddy 1
+879. Charlie Washington 1
+880. Reuben Lynch 1
+881. or Thomas Owens 1
+882. Chester Clark 1
+883. Harry "Sweets" Edison 1
+884. Gus Wilson 1
+885. James Jeter 1
+886. Chester Pillars 1
+887. Hayes Pillars 1
+888. Lee Hilliard 1
+889. Anderson Lacy 1
+890. Eugene Crooke 1
+891. Robert "Eppie" Jackson 1
 892. Godley 1
-893. AlphonsoTrent 1
-894. JoeKeyes 1
-895. Prince"Dee"Stewart 1
-896. Leroy"Buster"Berry 1
-897. WillieMcWashington 1
-898. CarlSmith 1
-899. BobbyMoore 1
-900. HershelEvans 1
-901. BennieMorton 1
-902. EmmettBerrry 1
-903. TedDonnelly 1
-904. EliRobinson 1
-905. PrestonLove 1
-906. RudyRutherford 1
-907. CharliePrice 1
-908. JoeWilliams 1
-909. DaveLambert 1
-910. JonHendricks 1
-911. AnnieRoss 1
-912. George"Pete"Minger 1
-913. WaymonReed 1
-914. MelvinWanzo 1
-915. JohnWatson 1
-916. CurtisPeagler 1
-917. EddieLockjawDavis 1
-918. HaroldJones 1
-919. SammyNestico 1
-920. PeteMinger 1
-921. LynBiviano 1
-922. BobbyMitchell 1
-923. CurtisFuller 1
-924. JimmyForrest 1
-925. JohnDuke 1
-926. ButchMiles 1
-927. DaleCarley 1
-928. JimCrawford 1
-929. BobSummers 1
-930. FrankSzabo 1
-931. DennisWilson 1
-932. BootyWood 1
-933. ChrisWoods 1
-934. DennisMackrel 1
-935. ByronStripling 1
-936. BobOjeda 1
-937. MikeWilliams 1
-938. ClarenceBanks 1
-939. RobertTrowers 1
-940. CavidGlaser 1
-941. JohnnieWilliams 1
-942. JerryEastman 1
-943. Carl"Ace"Carteer 1
-944. DuffyJackson 1
-945. LouisMetcalfe 1
-946. JabboSmith 1
-947. RudyJackson 1
-948. BubberMiley 1
-949. LonnieJohnson 1
-950. HaroldBaker 1
-951. OzzieBailey 1
-952. JohnLamb 1
-953. SteveLittle 1
+893. Alphonso Trent 1
+894. Joe Keyes 1
+895. Prince "Dee" Stewart 1
+896. Leroy "Buster" Berry 1
+897. Willie Mc Washington 1
+898. Carl Smith 1
+899. Bobby Moore 1
+900. Hershel Evans 1
+901. Bennie Morton 1
+902. Emmett Berrry 1
+903. Ted Donnelly 1
+904. Eli Robinson 1
+905. Preston Love 1
+906. Rudy Rutherford 1
+907. Charlie Price 1
+908. Joe Williams 1
+909. Dave Lambert 1
+910. Jon Hendricks 1
+911. Annie Ross 1
+912. George "Pete" Minger 1
+913. Waymon Reed 1
+914. Melvin Wanzo 1
+915. John Watson 1
+916. Curtis Peagler 1
+917. Eddie Lockjaw Davis 1
+918. Harold Jones 1
+919. Sammy Nestico 1
+920. Pete Minger 1
+921. Lyn Biviano 1
+922. Bobby Mitchell 1
+923. Curtis Fuller 1
+924. Jimmy Forrest 1
+925. John Duke 1
+926. Butch Miles 1
+927. Dale Carley 1
+928. Jim Crawford 1
+929. Bob Summers 1
+930. Frank Szabo 1
+931. Dennis Wilson 1
+932. Booty Wood 1
+933. Chris Woods 1
+934. Dennis Mackrel 1
+935. Byron Stripling 1
+936. Bob Ojeda 1
+937. Mike Williams 1
+938. Clarence Banks 1
+939. Robert Trowers 1
+940. Cavid Glaser 1
+941. Johnnie Williams 1
+942. Jerry Eastman 1
+943. Carl "Ace" Carteer 1
+944. Duffy Jackson 1
+945. Louis Metcalfe 1
+946. Jabbo Smith 1
+947. Rudy Jackson 1
+948. Bubber Miley 1
+949. Lonnie Johnson 1
+950. Harold Baker 1
+951. Ozzie Bailey 1
+952. John Lamb 1
+953. Steve Little 1
 954. Johnson 1
-955. LouBlackburn 1
-956. replaceJonesandPayne 1
-957. BillyStrayhorn 1
-958. BobBurnet 1
-959. JohnOwens 1
-960. DonRuppersberg 1
-961. BillRobertson 1
-962. BenHall 1
-963. GeneKinsey 1
-964. DonMcCook 1
-965. PhilStephens 1
-966. BusEtri 1
-967. RayMichaels 1
-968. DelCasino 1
-969. JohnMartel 1
-970. JackMootz 1
-971. JerryFoster 1
-972. DaveHallet 1
-973. BurtJohnson 1
-974. SkipMoore 1
-975. HalHerzon 1
-976. JoeMeissner 1
-977. EdPripps 1
-978. BobPoland 1
-979. HowardRumsey 1
-980. HalHahn 1
-981. KayStarr 1
-982. BillyMoore 1
-983. AndyGibson 1
-984. HarryRodgers 1
-985. RalphBurns 1
-986. BobPrice 1
-987. StanleyAronson 1
-988. FrankCarlson 1
-989. HalTennyson 1
-990. GlennMillerLeighKnowles 1
-991. TommyMack 1
-992. JimmyAbato 1
-993. DorothyClaire 1
-994. PaulaKelly 1
-995. LorraineElliott 1
-996. LynnBari 1
-997. SixHitsandaMiss 1
-998. TheNicholasBrothers 1
-999. DorothyDandridge 1
-1000. JohnPayne 1
-1001. DocGoldberg 1
-1002. JohnnyMintz 1
-1003. DonaldMcCook 1
-1004. BobWhite 1
-1005. EddieMeyers 1
-1006. LeoMoran 1
-1007. SlatsLong 1
-1008. LouHurst 1
-1009. LenGoldstein 1
-1010. HankD'Amico 1
-1011. JackOwens 1
-1012. JackPalmer 1
-1013. AndyRusso 1
-1014. MauriceKogan 1
-1015. TerryAllen 1
-1016. ShortyRogers 1
-1017. EddieBert 1
-1018. AaronSachs 1
-1019. RemoPalmieri 1
-1020. TalFarlow 1
-1021. FloydO'Brien 1
-1022. ErnestHill 1
-1023. KarlGeorge 1
-1024. FloydBrady 1
-1025. RudyPowell 1
-1026. GeorgeIrish 1
-1027. AlHall 1
-1028. JeanEldridge 1
-1029. HerschelEvans 1
-1030. EdmondHall 1
-1031. JoeSullivan 1
-1032. Eddie"Gogo"Hutchinson 1
-1033. ErnieRoyal 1
-1034. JackTrainor 1
-1035. FredBeckett 1
-1036. SonnyCraven 1
-1037. HarrySloan 1
-1038. RayPerry 1
-1039. JackMcVea 1
-1040. IrvingAshby 1
-1041. VernonAlley 1
-1042. LeeYoung 1
-1043. KingfishQuincyJones 1
-1044. BennyBailey 1
-1045. QuincyJones 1
-1046. LeoShepherd 1
-1047. EdMullens 1
-1048. WalterWilliams 1
-1049. JimmyCleveland 1
-1050. PaulLee 1
-1051. JeromeRichardson 1
-1052. GilBernal 1
-1053. JohnnyBoard 1
-1054. CurtisLowe 1
-1055. BenKynard 1
-1056. RoyJohnson 1
-1057. EllisBartee 1
-1058. SonnyParker 1
-1059. DwightMitchell 1
-1060. PeterBadie 1
-1061. StephaneGrappely 1
-1062. DjangoReinhardt 1
-1063. PierreFerrel 1
-1064. MarcelBianchi 1
-1065. LouisVola 1
-1066. HubertRoosting 1
-1067. AlixCombelle 1
-1068. JosephReinhardt 1
-1069. TonyRovira 1
-1070. PierreFouad 1
-1071. BillDillard 1
-1072. Richard'Dick'Fullbright 1
-1073. BillBeason 1
-1074. CecilScott 1
-1075. JonahJones 1
-1076. Margaret'Queenie'Johnson 1
-1077. FrankieNewton 1
-1078. KennethHollon 1
-1079. CarlFrye 1
-1080. KermitScott 1
-1081. Harold'Doc'West 1
-1082. ErniePowell 1
-1083. PaulChapman 1
-1084. GrachanMoncur 1
-1085. HerbertCovens 1
-1086. MontyKelly 1
-1087. LarryNeill 1
-1088. DonWaddilove 1
-1089. SkipLayton 1
-1090. AlvyWest 1
-1091. DannyD'Andrea 1
-1092. LennyHartman 1
-1093. BuddyWeed 1
-1094. MikePingitore 1
-1095. WillieRodriguez 1
-1096. JackCressey 1
-1097. PaulRicci 1
-1098. DaveBowman 1
-1099. HaigStephens 1
-1100. JohnnyBlowers 1
-1101. TootsCamarata 1
-1102. OsieJohnson 1
-1103. TomMitchell 1
-1104. EddiePowell 1
-1105. RomeoPenque 1
-1106. TomParshley 1
-1107. PhilBodner 1
-1108. BradleySpinney 1
-1109. DonLamond 1
-1110. JanetPutnam 1
-1111. NatStory 1
-1112. BarvinBushell 1
-1113. LouisJordan 1
-1114. TedMcRae 1
-1115. TommyFulford 1
-1116. BobbyJohnson 1
-1117. BeverleyPeer 1
-1118. FrankBeach 1
-1119. BuddyChilders 1
-1120. CappyLewis 1
-1121. MiltBernhart 1
-1122. MarshallCram 1
-1123. JamesHenderson 1
-1124. LloydUlyate 1
-1125. VincentDeRosa 1
-1126. ErnoNeufeld 1
-1127. MarschallSasson 1
-1128. RobertSushel 1
-1129. GeraldVinci 1
-1130. TiborZelig 1
-1131. MyronBacon 1
-1132. AbrahamHochstein 1
-1133. RaymondMenhennick 1
-1134. MyronSandler 1
-1135. JustinDiTullio 1
-1136. KurtReher 1
-1137. WilliamVanDenBurg 1
-1138. TonyRizzi 1
-1139. RussellGarcia 1
-1140. AlPorcino 1
-1141. BobEnevoldsen 1
-1142. JohnKitzmiller 1
-1143. BudShank 1
-1144. BillHolman 1
-1145. MedFlory 1
-1146. MartyPaich 1
-1147. JimHall 1
-1148. EdThigpen 1
-1149. TootsThielemans 1
-1150. HenryTrotter 1
-1151. MikeLang 1
-1152. ClarenceMcDonald 1
-1153. OscarCastro-Neves 1
-1154. PaulJackson 1
-1155. MitchHolder 1
-1156. RolandBautista 1
-1157. AbrahamLaboriel 1
-1158. AlexAcuna 1
-1159. PaulinhodaCosta 1
-1160. ErichBulling 1
-1161. BillWatrous 1
-1162. BobCooper 1
-1163. ArtHillery 1
-1164. JimHughart 1
-1165. RedMcKenzie 1
-1166. EddieCondon 1
-1167. JackBland 1
-1168. TommyLindsay 1
-1169. JoeGuy 1
-1170. EarlHardy 1
-1171. JackieFields 1
-1172. EustisMoore 1
-1173. VicCoulsen 1
-1174. EddieVanderveer 1
-1175. LeoParker 1
-1176. LeonardLowry 1
-1177. DonByas 1
-1178. RayAbrams 1
-1179. TheloniousMonk 1
-1180. Edward"Bass"Robinson 1
-1181. SirCharlesThompson 1
-1182. Samedateandpersonnellasabove 1
-1183. PorterKilbert 1
-1184. MiltJackson 1
-1185. CurlyRussell 1
-1186. MilesDavis 1
-1187. KaiWinding 1
-1188. HowardJohnson 1
-1189. CurleyRussell 1
-1190. TommyPotter 1
-1191. ChuckWayne 1
-1192. MarionDeVetaorJackLesberg 1
-1193. IdreesSulieman 1
-1194. WilburWare 1
-1195. ArtBlakey 1
-1196. EddieHiggins 1
-1197. WalterPerkins 1
-1198. EdwardLocke 1
-1199. SonnyRollins 1
-1200. PaulBley 1
-1201. RoyMcCurdy 1
-1202. IsraelCrosby 1
-1203. HelenWard 1
-1204. JohnHamilton 1
-1205. Robert"Cookie"Mason 1
-1206. ClarenceWheeler 1
-1207. TedKelly 1
-1208. GeorgeWilson 1
-1209. SamLee 1
-1210. HalSinger 1
-1211. DaveMcRae 1
-1212. TonyD'Amore 1
-1213. Sam"Christopher"Allen 1
-1214. Carl"FlatTop"Wilson 1
-1215. LesErskine 1
-1216. DavePage 1
-1217. MarionHazel 1
-1218. Thomas"Sleepy"Grider 1
-1219. SylvesterLewis 1
-1220. RichardDunlap 1
-1221. CharlesGreenlee 1
-1222. GeorgeRobinson 1
-1223. SahibShihab 1
-1224. WaltLockhart 1
-1225. HaroldWebster 1
-1226. CecilPayne 1
-1227. DukeJordan 1
-1228. LeeAbrams 1
-1229. EricDolphy 1
-1230. NatHentoff 1
-1231. CliffSmalls 1
-1232. NielsPedersen 1
-1233. NatKingCole 1
-1234. JohnSimon 1
-1235. ShadowWilson 1
-1236. HenryTucker 1
-1237. WeslyJones 1
-1238. CurtisCounce 1
-1239. JohnnyOtis 1
-1240. Peterson 1
-1241. Petersonout 1
-1242. GeneRamey 1
-1243. BillHughues 1
-1244. EdJones 1
-1245. andRoyEldridge 1
-1246. GeorgeDuvivier 1
-1247. MickeySheen 1
-1248. Joe"TrickySam"Nanton 1
-1249. OttoHardwick 1
-1250. IvieAnderson 1
-1251. HerbJeffries 1
-1252. BillHarris 1
-1253. RedMitchell 1
-1254. StanLevey 1
-1255. LeroyVinnegar 1
-1256. KennyDrew 1
-1257. NielsHenningOrstedPedersen 1
-1258. AlexRiel 1
-1259. ArnvedMeyer 1
-1260. JohnDarville 1
-1261. OleKongsted 1
-1262. NielsJorgenSteen 1
-1263. HenrikHartmann 1
-1264. HansNmand 1
-1265. ErmitVPerry 1
-1266. GeorgeTreadwell 1
-1267. EdBurke 1
-1268. BobHorton 1
-1269. EdGlover 1
-1270. FrankPowell 1
-1271. LeePope 1
-1272. EddieDeVerteuil 1
-1273. LeroyKirkland 1
-1274. ArnoldJarvis 1
-1275. BillyBauer 1
-1276. ErnieWilkins 1
-1277. HoagyCarmichael 1
-1278. LeonElkins 1
-1279. LeonHerriford 1
-1280. WillieStark 1
-1281. WilliamFranz 1
-1282. HarveyBrooks 1
-1283. CeeleBurke 1
-1284. ReggieJones 1
-1285. LouisHunt 1
-1286. BillyHicks 1
-1287. EllisWhitlock 1
-1288. GeorgeOldham 1
-1289. BillOldham 1
-1290. YankPorter 1
-1291. LeonardDavis 1
-1292. HenryJones 1
-1293. WilburDeParis 1
+955. Lou Blackburn 1
+956. replace Jonesand Payne 1
+957. Billy Strayhorn 1
+958. Bob Burnet 1
+959. John Owens 1
+960. Don Ruppersberg 1
+961. Bill Robertson 1
+962. Ben Hall 1
+963. Gene Kinsey 1
+964. Don Mc Cook 1
+965. Phil Stephens 1
+966. Bus Etri 1
+967. Ray Michaels 1
+968. Del Casino 1
+969. John Martel 1
+970. Jack Mootz 1
+971. Jerry Foster 1
+972. Dave Hallet 1
+973. Burt Johnson 1
+974. Skip Moore 1
+975. Hal Herzon 1
+976. Joe Meissner 1
+977. Ed Pripps 1
+978. Bob Poland 1
+979. Howard Rumsey 1
+980. Hal Hahn 1
+981. Kay Starr 1
+982. Billy Moore 1
+983. Andy Gibson 1
+984. Harry Rodgers 1
+985. Ralph Burns 1
+986. Bob Price 1
+987. Stanley Aronson 1
+988. Frank Carlson 1
+989. Hal Tennyson 1
+990. Tommy Mack 1
+991. Jimmy Abato 1
+992. Dorothy Claire 1
+993. Paula Kelly 1
+994. Lorraine Elliott 1
+995. Lynn Bari 1
+996. Six Hitsanda Miss 1
+997. The Nicholas Brothers 1
+998. Dorothy Dandridge 1
+999. John Payne 1
+1000. Doc Goldberg 1
+1001. Johnny Mintz 1
+1002. Donald Mc Cook 1
+1003. Bob White 1
+1004. Eddie Meyers 1
+1005. Leo Moran 1
+1006. Slats Long 1
+1007. Lou Hurst 1
+1008. Len Goldstein 1
+1009. Hank D 'Amico 1
+1010. Jack Owens 1
+1011. Jack Palmer 1
+1012. Andy Russo 1
+1013. Maurice Kogan 1
+1014. Terry Allen 1
+1015. Shorty Rogers 1
+1016. Eddie Bert 1
+1017. Aaron Sachs 1
+1018. Remo Palmieri 1
+1019. Tal Farlow 1
+1020. Floyd O 'Brien 1
+1021. Ernest Hill 1
+1022. Karl George 1
+1023. Floyd Brady 1
+1024. Rudy Powell 1
+1025. George Irish 1
+1026. Al Hall 1
+1027. Jean Eldridge 1
+1028. Herschel Evans 1
+1029. Edmond Hall 1
+1030. Joe Sullivan 1
+1031. Eddie "Gogo" Hutchinson 1
+1032. Ernie Royal 1
+1033. Jack Trainor 1
+1034. Fred Beckett 1
+1035. Sonny Craven 1
+1036. Harry Sloan 1
+1037. Ray Perry 1
+1038. Jack Mc Vea 1
+1039. Irving Ashby 1
+1040. Vernon Alley 1
+1041. Lee Young 1
+1042. Kingfish Quincy Jones 1
+1043. Benny Bailey 1
+1044. Quincy Jones 1
+1045. Leo Shepherd 1
+1046. Ed Mullens 1
+1047. Walter Williams 1
+1048. Jimmy Cleveland 1
+1049. Paul Lee 1
+1050. Jerome Richardson 1
+1051. Gil Bernal 1
+1052. Johnny Board 1
+1053. Curtis Lowe 1
+1054. Ben Kynard 1
+1055. Roy Johnson 1
+1056. Ellis Bartee 1
+1057. Sonny Parker 1
+1058. Dwight Mitchell 1
+1059. Peter Badie 1
+1060. Stephane Grappely 1
+1061. Django Reinhardt 1
+1062. Pierre Ferrel 1
+1063. Marcel Bianchi 1
+1064. Louis Vola 1
+1065. Hubert Roosting 1
+1066. Alix Combelle 1
+1067. Joseph Reinhardt 1
+1068. Tony Rovira 1
+1069. Pierre Fouad 1
+1070. Bill Dillard 1
+1071. Richard 'Dick' Fullbright 1
+1072. Bill Beason 1
+1073. Cecil Scott 1
+1074. Jonah Jones 1
+1075. Margaret 'Queenie' Johnson 1
+1076. Frankie Newton 1
+1077. Kenneth Hollon 1
+1078. Carl Frye 1
+1079. Kermit Scott 1
+1080. Harold 'Doc' West 1
+1081. Ernie Powell 1
+1082. Paul Chapman 1
+1083. Grachan Moncur 1
+1084. Herbert Covens 1
+1085. Monty Kelly 1
+1086. Larry Neill 1
+1087. Don Waddilove 1
+1088. Skip Layton 1
+1089. Alvy West 1
+1090. Danny D 'Andrea 1
+1091. Lenny Hartman 1
+1092. Buddy Weed 1
+1093. Mike Pingitore 1
+1094. Willie Rodriguez 1
+1095. Jack Cressey 1
+1096. Paul Ricci 1
+1097. Dave Bowman 1
+1098. Haig Stephens 1
+1099. Johnny Blowers 1
+1100. Toots Camarata 1
+1101. Osie Johnson 1
+1102. Tom Mitchell 1
+1103. Eddie Powell 1
+1104. Romeo Penque 1
+1105. Tom Parshley 1
+1106. Phil Bodner 1
+1107. Bradley Spinney 1
+1108. Don Lamond 1
+1109. Janet Putnam 1
+1110. Nat Story 1
+1111. Barvin Bushell 1
+1112. Louis Jordan 1
+1113. Ted Mc Rae 1
+1114. Tommy Fulford 1
+1115. Bobby Johnson 1
+1116. Beverley Peer 1
+1117. Frank Beach 1
+1118. Buddy Childers 1
+1119. Cappy Lewis 1
+1120. Milt Bernhart 1
+1121. Marshall Cram 1
+1122. James Henderson 1
+1123. Lloyd Ulyate 1
+1124. Vincent De Rosa 1
+1125. Erno Neufeld 1
+1126. Marschall Sasson 1
+1127. Robert Sushel 1
+1128. Gerald Vinci 1
+1129. Tibor Zelig 1
+1130. Myron Bacon 1
+1131. Abraham Hochstein 1
+1132. Raymond Menhennick 1
+1133. Myron Sandler 1
+1134. Justin Di Tullio 1
+1135. Kurt Reher 1
+1136. William Van Den Burg 1
+1137. Tony Rizzi 1
+1138. Russell Garcia 1
+1139. Al Porcino 1
+1140. Bob Enevoldsen 1
+1141. John Kitzmiller 1
+1142. Bud Shank 1
+1143. Bill Holman 1
+1144. Med Flory 1
+1145. Marty Paich 1
+1146. Jim Hall 1
+1147. Ed Thigpen 1
+1148. Toots Thielemans 1
+1149. Henry Trotter 1
+1150. Mike Lang 1
+1151. Clarence Mc Donald 1
+1152. Oscar Castro-Neves 1
+1153. Paul Jackson 1
+1154. Mitch Holder 1
+1155. Roland Bautista 1
+1156. Abraham Laboriel 1
+1157. Alex Acuna 1
+1158. Paulinhoda Costa 1
+1159. Erich Bulling 1
+1160. Bill Watrous 1
+1161. Bob Cooper 1
+1162. Art Hillery 1
+1163. Jim Hughart 1
+1164. Red Mc Kenzie 1
+1165. Eddie Condon 1
+1166. Jack Bland 1
+1167. Tommy Lindsay 1
+1168. Joe Guy 1
+1169. Earl Hardy 1
+1170. Jackie Fields 1
+1171. Eustis Moore 1
+1172. Vic Coulsen 1
+1173. Eddie Vanderveer 1
+1174. Leo Parker 1
+1175. Leonard Lowry 1
+1176. Don Byas 1
+1177. Ray Abrams 1
+1178. Thelonious Monk 1
+1179. Edward "Bass" Robinson 1
+1180. Sir Charles Thompson 1
+1181. Samedateandpersonnellasabove 1
+1182. Porter Kilbert 1
+1183. Milt Jackson 1
+1184. Curly Russell 1
+1185. Miles Davis 1
+1186. Kai Winding 1
+1187. Howard Johnson 1
+1188. Curley Russell 1
+1189. Tommy Potter 1
+1190. Chuck Wayne 1
+1191. Marion De Vetaor Jack Lesberg 1
+1192. Idrees Sulieman 1
+1193. Wilbur Ware 1
+1194. Art Blakey 1
+1195. Eddie Higgins 1
+1196. Walter Perkins 1
+1197. Edward Locke 1
+1198. Sonny Rollins 1
+1199. Paul Bley 1
+1200. Roy Mc Curdy 1
+1201. Israel Crosby 1
+1202. Helen Ward 1
+1203. John Hamilton 1
+1204. Robert "Cookie" Mason 1
+1205. Clarence Wheeler 1
+1206. Ted Kelly 1
+1207. George Wilson 1
+1208. Sam Lee 1
+1209. Hal Singer 1
+1210. Dave Mc Rae 1
+1211. Tony D 'Amore 1
+1212. Sam "Christopher" Allen 1
+1213. Carl "Flat Top" Wilson 1
+1214. Les Erskine 1
+1215. Dave Page 1
+1216. Marion Hazel 1
+1217. Thomas "Sleepy" Grider 1
+1218. Sylvester Lewis 1
+1219. Richard Dunlap 1
+1220. Charles Greenlee 1
+1221. George Robinson 1
+1222. Sahib Shihab 1
+1223. Walt Lockhart 1
+1224. Harold Webster 1
+1225. Cecil Payne 1
+1226. Duke Jordan 1
+1227. Lee Abrams 1
+1228. Eric Dolphy 1
+1229. Nat Hentoff 1
+1230. Cliff Smalls 1
+1231. Niels Pedersen 1
+1232. Nat King Cole 1
+1233. John Simon 1
+1234. Shadow Wilson 1
+1235. Henry Tucker 1
+1236. Wesly Jones 1
+1237. Curtis Counce 1
+1238. Johnny Otis 1
+1239. Peterson 1
+1240. Petersonout 1
+1241. Gene Ramey 1
+1242. Bill Hughues 1
+1243. Ed Jones 1
+1244. and Roy Eldridge 1
+1245. George Duvivier 1
+1246. Mickey Sheen 1
+1247. Joe "Tricky Sam" Nanton 1
+1248. Otto Hardwick 1
+1249. Ivie Anderson 1
+1250. Herb Jeffries 1
+1251. Bill Harris 1
+1252. Red Mitchell 1
+1253. Stan Levey 1
+1254. Leroy Vinnegar 1
+1255. Kenny Drew 1
+1256. Niels Henning Orsted Pedersen 1
+1257. Alex Riel 1
+1258. Arnved Meyer 1
+1259. John Darville 1
+1260. Ole Kongsted 1
+1261. Niels Jorgen Steen 1
+1262. Henrik Hartmann 1
+1263. Hans Nmand 1
+1264. Ermit VPerry 1
+1265. George Treadwell 1
+1266. Ed Burke 1
+1267. Bob Horton 1
+1268. Ed Glover 1
+1269. Frank Powell 1
+1270. Lee Pope 1
+1271. Eddie De Verteuil 1
+1272. Leroy Kirkland 1
+1273. Arnold Jarvis 1
+1274. Billy Bauer 1
+1275. Ernie Wilkins 1
+1276. Hoagy Carmichael 1
+1277. Leon Elkins 1
+1278. Leon Herriford 1
+1279. Willie Stark 1
+1280. William Franz 1
+1281. Harvey Brooks 1
+1282. Ceele Burke 1
+1283. Reggie Jones 1
+1284. Louis Hunt 1
+1285. Billy Hicks 1
+1286. Ellis Whitlock 1
+1287. George Oldham 1
+1288. Bill Oldham 1
+1289. Yank Porter 1
+1290. Leonard Davis 1
+1291. Henry Jones 1
+1292. Wilbur De Paris 1

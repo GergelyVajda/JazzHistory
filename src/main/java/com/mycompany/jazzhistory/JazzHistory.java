@@ -230,8 +230,9 @@ public class JazzHistory {
                 }
                 okos2.print((i+1)+". ");
                 for (int j = 0; j < rendezett.length; j++) {
-                    if (Integer.parseInt(rendezett[j][1])==egyediSum[i][1]) { //replace(/([A-Z])/g, " $1").trim();
-                        okos2.println(rendezett[j][0]+" "+egyediSum[i][0].toString());
+                    if (Integer.parseInt(rendezett[j][1])==egyediSum[i][1]) {
+                        String kiiras=idezojelEleSpace(rendezett[j][0]);
+                        okos2.println(kiiras.replaceAll("(\\p{Ll})(\\p{Lu})","$1 $2")+" "+egyediSum[i][0].toString());
                         break;
                        
                     }
@@ -284,4 +285,32 @@ public class JazzHistory {
             if(null == givenString || givenString.isEmpty() ) return false;
             else return (Character.isUpperCase( givenString.codePointAt(0) ) );
         }
+    public static String idezojelEleSpace(String camelCasedString) {
+    if (camelCasedString == null || camelCasedString.isEmpty())
+        return camelCasedString;
+    
+    boolean firstTime=true;
+    boolean didIt=false;
+    StringBuilder result = new StringBuilder();
+    result.append(camelCasedString.charAt(0));
+    for (int i = 1; i < camelCasedString.length(); i++) {
+        if (Character.toString(camelCasedString.charAt(i)).equals("\"") || Character.toString(camelCasedString.charAt(i)).equals("\'"))
+            if (firstTime==true) {
+                result.append(" ");
+                result.append(camelCasedString.charAt(i));
+                firstTime=false;
+                didIt=true;
+            }else if(firstTime==false){
+            result.append(camelCasedString.charAt(i));
+            result.append(" ");
+            didIt=true;
+            }
+            if (didIt) {
+            didIt=false;
+            }else{
+            result.append(camelCasedString.charAt(i));
+            }
+    }
+    return result.toString();
+}
 }
