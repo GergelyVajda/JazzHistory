@@ -60,7 +60,7 @@ Rec.: New York, May 29, 1925
 21 The Stampede Don Redman (arr).
 Fletcher Henderson and his Orchestra:
 Russell Smith, Joe Smith (tp) Buster Bailey (cl, as) Don Redman (arr) Coleman Hawkins (cl, ts,
-bassax) Fletcher Henderson (p) Charlie Dixon (bj) Kaiser Marshall (d) same pers but Rex Stewart
+bassax) Fletcher Henderson (p) Charlie Dixon (bj) Kaiser Marshall (d) Rex Stewart
 (cnt), Benny Morton (tb)
 Rec.: New York, May 14, 1926
 024 King Porter Stomp Fletcher Henderson (arr).
@@ -111,7 +111,7 @@ Benny Goodman (cl) Teddy Wilson (p) Gene Krupa (d)
 New York, July 13, 1935
 45 King Porter Stomp Fletcher Henderson (arr).
 Goodman (cl); Nate Kazebier, Bunny Berigan, Ralph Muzillo (trp); Red Ballard, Jack Lacey (trbs);
-Toots Mandello, Hymie Schertzer (altos); Art Rollini, Dick Clark (tens); Frank Foeba (pno); George van
+Toots Mondello, Hymie Schertzer (altos); Art Rollini, Dick Clark (tens); Frank Foeba (pno); George van
 Eps (gtr); Harry Goodman (bass); Gene Krupa (dms).
 Rec.: New York, July 1, 1935
 46 Stompin' at the Savoy Edgar Sampson (arr).
@@ -269,11 +269,10 @@ Wise, Carl Friend (ts) Dale Keever (bar) Joe Cohen (p) Ralph Blaze (g) Don Simps
 Krupa (d) Hernando Bravo, Ramon "Sonny" Rivera (latin perc) Delores Hawkins, Bill Black (vcl) New
 York, January 26, 1949
 089 Disc jockey jump Gerry Mulligan (arr)
-Gene Krupa
 Roy Eldridge (tp, vcl) Don Fagerquist, Ray Triscari, Gordon Boswell, John Bello (tp) Frank Rosolino (tb,
 vcl) Allan Langstaff, Frank Rehak, Walter Robertson (tb) Lenny Hambro, Jerry Therkelo (as) Buddy
 Wise, Carl Friend (ts) Dale Keever (bar) Joe Cohen (p) Ralph Blaze (g) Don Simpson (b, arr) Gene
-Krupa (d) Hernando Bravo, Ramon “Sonny” Rivera (latin perc)
+Krupa (d) Hernando Bravo, Ramon "Sonny" Rivera (latin perc)
 Broadcast, “Palladium”, Hollywood, CA, 1949
 93 I Got Rhythm Don Redman (arr)
 Don Redman
@@ -297,7 +296,7 @@ New York, January 17, 1940
 102 Slow
 Freight Benny Carter
 Lincoln Mills, Joe Thomas (tp) Vic Dickenson, Jimmy Archey (tb) Benny Carter (tp, as) Jimmy Powell,
-Carl Frey (as) Eddie Heywood, Jr. (p) Ulysses Livingston (g) Hayes Alvis (b) or Ted Fields, Keg Purnell
+Carl Frey (as) Eddie Heywood, Jr. (p) Ulysses Livingston (g) Hayes Alvis (b) Ted Fields, Keg Purnell
 (d) Russell Smith (tp) Gene Simon (tb) Stanley Payne (ts) Coleman Hawkins (ts)
 New York, January 30, 1940
 107 The Midnight Sun Will Never
@@ -323,7 +322,7 @@ Ewing, Joe McLewis (tb) Omer Simeon (cl, bar) Leroy Harris (as, vcl) Jimmy Mundy
 Eckstine (vcl) George Dixon (speech-1)
 New York, February 13, 1940
 119 Second Balcony Jump Gerald Valentine
-(arr) Earl Hines
+(arr) Earl Hines,
 George Dixon (tp, as) Joe McLewis, George Hunt (tb) Leroy Harris, Scoops Carey (as, cl) Willie
 Randall, Budd Johnson, Franz Jackson (ts) Earl Hines (p) Truck Parham (b) Rudolph Taylor (d) Billy
 Eckstine, Madeline Greene (vcl) The Three Varieties (vcl trio) Jesse Miller (tp) Gerald Valentine (tb,
@@ -414,8 +413,7 @@ Tanza (as) Jon Walton, Herbie Steward (ts) Chuck Gentry (bar) Dodo Marmarosa (p)
 (g) Morris Rayman (b) Louis Fromm (d) Hal Derwin (vcl) [ Hal Stevens (vcl) ] Ray Conniff, Buster
 Harding, Dick Jones, Jimmy Mundy, David Rose, George Siravo (arr)
 Hollywood, CA, April 5, 1945
-145 The Maid With the Flaccid Air Eddie Sauter
-(arr) Artie Shaw
+145 The Maid With the Flaccid Air Eddie Sauter (arr) Artie Shaw
 Roy Eldridge (tp, vcl) Bernie Glow, George Schwartz (tp) Augustino Ischia (tb) [ Gus Dixon, Bob Swift,
 Ollie Wilson (tb) Barry Rogers (tb, arr) Artie Shaw (cl, arr) Louis Prisby, Rudy Tanza (as) Jon Walton
 (ts) Chuck Gentry (bar) Dodo Marmarosa (p) Barney Kessel (g) Morris Rayman (b) Louis Fromm (d)
@@ -503,7 +501,7 @@ New York, October 11, 1938
 ’ Walter Page's Blue
 Devils:
 James Simpson, Hot Lips Page (tp) Dan Minor (tb) Buster Smith (cl, as) Ted Manning (as) Reuben
-Roddy (ts) Charlie Washington (p) Reuben Lynch (g) or Thomas Owens (g) Walter Page, Alvin Burroughs (d) Jimmy Rushing (vcl on Blue Devil Blues)
+Roddy (ts) Charlie Washington (p) Reuben Lynch (g) Thomas Owens (g) Walter Page, Alvin Burroughs (d) Jimmy Rushing (vcl on Blue Devil Blues)
 Kansas City, November 10, 1929
 170 I’ve Found a New
 Baby Alphonso Trent
@@ -657,13 +655,13 @@ Trowers, Bill Hughes (trbs); Danny Turner, Cavid Glaser, Eric Dixon, Kenny Hing,
 New York, May 16 & 17, 1989
 196 Black and Tan Fantasy
 DUKE ELLINGTON AND HIS ORCHESTRA.
-Louis Metcalfe, Jabbo Smith (trps); Joe 'Tricky Sam' Nanton (trb); Otto Hardwicke (alto); Rudy
+Louis Metcalfe, Jabbo Smith (trps); Joe "Tricky Sam" Nanton (trb); Otto Hardwicke (alto); Rudy
 Jackson (ten); Harry Carney (alto/bari); Ellington (pno); Fred Guy (bjo); Wellman Braud (bass); Sonny
 Greer (dms).
 Recorded: New York, November 3, 1927
 197 The Mooche
 DUKE ELLINGTON AND HIS ORCHESTRA.
-Arthur Whetsol, Bubber Miley (trps); Joe 'Tricky Sam' Nanton (trb); Barney Bigard (cl/ten); Johnny
+Arthur Whetsol, Bubber Miley (trps); Joe "Tricky Sam" Nanton (trb); Barney Bigard (cl/ten); Johnny
 Hodges (sop/alto); Harry Carney (alto/bari); Ellington (pno), Fred Guy (bjo); Lonnie Johnson (gtr);
 Wellman Braud (bass); Sonny Greer (dms).
 Recorded: New York, October 1, 1928
@@ -740,7 +738,7 @@ Johnson (tp) Ray Nance (tp, vln) Juan Tizol, Lawrence Brown, Lou Blackburn, Henr
 Jackson, Benny Powell (tb) Jimmy Hamilton, Marshal Royal (cl, as) Johnny Hodges, Russell Procope
 (as) Frank Wess (as, ts, fl) Paul Gonsalves, Frank Foster, Budd Johnson (ts) Charlie Fowlkes, Harry
 Carney (bar) Count Basie, Duke Ellington (p) Freddie Green (g) Eddie Jones (b) Sonny Payne (d) on (1)
-Aaron Bell (b) Sam Woodyard (d) replace Jones and Payne, on (2) Billy Strayhorn (p) Aaron Bell (b) Sam Woodyard, Sonny Payne (d)
+Aaron Bell (b) Sam Woodyard (d) Billy Strayhorn (p) Aaron Bell (b) Sam Woodyard, Sonny Payne (d)
 New York, July 6, 1961
 211 The Count's Idea Billy May (arr)
 212 The Duke's idea
@@ -975,10 +973,8 @@ Károly
 2025
 JAZZTÖRTÉNET II. Évfolyam 1. Félév SWING BIG BANDEK, SZÓLISTÁK
 32
-303 Montmartre (Django's
-Jump) REX STEWART AND HIS
-FEETWARMERS:
-Stewart (cnt); Barney Bigard (cl); Reinhardt (gtr); Billy Taylor (bass). Recorded: Paris, April 5, 1939
+303 Montmartre (Django's Jump) REX STEWART AND HIS FEETWARMERS:
+Rex Stewart (cnt); Barney Bigard (cl); Reinhardt (gtr); Billy Taylor (bass). Recorded: Paris, April 5, 1939
 305 Between the Devil and the Deep Blue Sea
 DICKIE WELLS AND HIS ORCHESTRA:
 Bill Dillard, Bill Coleman, Shad Collins (trps); Dicky Wells (trb); Reinhardt (gtr); Richard 'Dick'
@@ -1200,7 +1196,7 @@ Howard McGhee (trp), Coleman Hawkins (ten), Sir Charles Thompson (pno), Allan Re
 Pettiford (bass), Denzil Best (dms).
 Recorded in Los Angeles, February 23, 1945
 364 Hollywood Stampede
-Same date and personnell as above, Vic Dickenson (trb)
+Vic Dickenson (trb)
 365 I Mean You
 COLEMAN HAWKINS OCTET
 Fats Navarro (tp) J J Johnson (tb) Porter Kilbert (as) Coleman Hawkins (ts) Milt Jackson (vib) Hank
@@ -1278,21 +1274,19 @@ Coleman Hawkins and The Chocolate Dandies:
 Roy Eldridge (tp) Benny Carter (as, p, cl) Coleman Hawkins (ts) Bernard Addison (g) John Kirby (b)
 Sidney Catlett (d)
 New York, May 25, 1940
-385 Body and
-Soul Roy Eldridge
+385 Body and Soul 
 Roy Eldridge, Gus Aiken, John Hamilton, Robert "Cookie" Mason, Clarence Wheeler (tp) Ted Kelly,
 Sandy Williams, George Wilson (tb) Joe Eldridge, Sam Lee (as) Franz Jackson, Hal Singer (ts) Dave
 McRae (bar) Tony D'Amore (p) Sam "Christopher" Allen (g) Carl "Flat Top" Wilson (b) Les Erskine (d)
 New York, June 26, 1944
 386 Rockin' Chair
-Roy Eldridge
 Roy Eldridge, Dave Page, Marion Hazel, Thomas "Sleepy" Grider, Sylvester Lewis (tp) Richard Dunlap,
 Charles Greenlee, George Robinson, Fred Robinson (tb) Sahib Shihab, Joe Eldridge (as) Walt
 Lockhart, Harold Webster (ts) Cecil Payne (bar) Duke Jordan (p) Carl Pruitt (b) Lee Abrams (d)
 New York, September 24, 1946
 387 Tour De Force (Gillespie) (11:12)
 Solos order: Edison, Eldridge, Gillespie, Peterson
-Personnel: Roy Eldridge, Dizzy Gillespie, Harry “Sweets” Edison (tp), Oscar Peterson (p), Herb Ellis (g),
+Roy Eldridge, Dizzy Gillespie, Harry “Sweets” Edison (tp), Oscar Peterson (p), Herb Ellis (g),
 Ray Brown (b) Buddy Rich (d).
 Recorded in New York City, on November 2, 1955
 389 De-Dar
@@ -1305,7 +1299,7 @@ Roy Eldridge (tp) Jimmy Knepper (tb) Eric Dolphy (as) Tommy Flanagan (p) Charles
 Jones (d) Nat Hentoff (supervisor)
 Nola Penthouse Studios, NYC, November 11, 1960
 391 Body and Soul
-Paul Gonsalves/Roy Eldridge Quintet - Mexican bandit meets Pittsburgh pirate
+Paul Gonsalves/Roy Eldridge Quintet - Mexican bandit meets Pittsburgh pirate:
 Roy Eldridge (tp, vcl) Paul Gonsalves (ts) Cliff Smalls (p) Sam Jones (b) Eddie Locke (d)
 New York, August 24, 1973
 LFZE
@@ -1321,7 +1315,7 @@ Dizzy Gillespie, Roy Eldridge, Clark Terry (tps) Oscar Peterson (pno) Niels Pede
 Louis Bellson (dms)
 Recorded at the Montreux Jazz Festival; July 16, 1975.
 393 Take the A Train
-Roy Eldridge & Vic Dickenson
+Roy Eldridge & Vic Dickenson:
 Roy Eldridge (tp) Vic Dickenson (tb) Budd Johnson (ts) Tommy Flanagan (p) Major Holley (b) Eddie
 Locke (d)
 "St. Peter's Church", New York, May 20, 1978
@@ -1399,7 +1393,7 @@ COUNT BASIE AND HIS ORCHESTRA FEATURING LESTER YOUNG
 Lester Young (ten); Wendell Culley, Joe Newman, Reunald Jones, Thad Jones (trps); Henry Cooker,
 Benny Powell, Bill Hughues (trbs); Marshall Royal, Bill Graham, Frank Foster, Frank Wess, Charlie
 Fowlkes (saxes); Count Basie (pno); Freddie Green (gtr); Ed Jones (bass); Sonny Payne (dms) 
-Illinois Jacquet (ten); and Roy Eldridge (trp).
+Illinois Jacquet (ten); Roy Eldridge (trp).
 Recorded: at Freebody Park, Newport, R.I. on July 7, 1957
 423 They Can't Take That Away From Me
 Roy Eldridge, Harry Edison (trps); Lester Young (cl); Hank Jones (pno); Herb Ellis (gtr); George

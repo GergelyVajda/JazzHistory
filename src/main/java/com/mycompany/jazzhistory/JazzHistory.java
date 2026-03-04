@@ -10,6 +10,7 @@ import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.io.PrintWriter;
+import java.util.Arrays;
 
 /**
  *
@@ -224,6 +225,8 @@ public class JazzHistory {
             FileWriter buta2=new FileWriter("JazztoriZeneszekElofordulas1.2.txt");
             PrintWriter okos2=new PrintWriter(buta2);
             
+            String[] abeces= new String[egyediSum.length-1];
+            
             for (int i = 0; i < egyediSum.length; i++) {
                 if (egyediSum[i][0]==null) {
                     break;
@@ -233,12 +236,24 @@ public class JazzHistory {
                     if (Integer.parseInt(rendezett[j][1])==egyediSum[i][1]) {
                         String kiiras=idezojelEleSpace(rendezett[j][0]);
                         okos2.println(kiiras.replaceAll("(\\p{Ll})(\\p{Lu})","$1 $2")+" "+egyediSum[i][0].toString());
+                        abeces[i]=kiiras.replaceAll("(\\p{Ll})(\\p{Lu})","$1 $2")+" "+egyediSum[i][0].toString();
                         break;
                        
                     }
                 }           
             }
             okos2.close();
+            FileWriter buta3=new FileWriter("JZElofordulas-ABC-Sorrendben1.2.txt");
+            PrintWriter okos3=new PrintWriter(buta3);
+            Arrays.sort(abeces);
+            for (int i = 0; i < abeces.length; i++) {
+                if (abeces[i]==null) {
+                    break;
+                }
+                okos3.println((i+1)+". "+abeces[i]);
+            }
+            okos3.close();
+
             
 
         } catch (FileNotFoundException ex) {
