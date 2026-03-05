@@ -28,13 +28,13 @@ THE MILLS BROTHERS: John Mills (gtr & imitation of the tuba); Herbert Mills (vcl
 saxophone).
 11 Panama
 Luis Russell
-Henry "Red" Allen (tp) J.C. Higginbotham (tb, vcl) Albert Nicholas (cl, as) Charlie Holmes (as, sop) Luis
+Henry "Red" Allen (tp) JC Higginbotham (tb, vcl) Albert Nicholas (cl, as) Charlie Holmes (as, sop) Luis
 Russell (p, dir) Will Johnson (bj, g) Pops Foster (b) Paul Barbarin (d, vib) Henry
-Allen, J.C. Higginbotham, Louis Metcalf, Otis Johnson (tp) Greely Walton (ts) David Bee
+Allen, JC Higginbotham, Louis Metcalf, Otis Johnson (tp) Greely Walton (ts) David Bee
 (arr)
 New York, September 5, 1930
 013 Futuristic rhythm (Ben Pollack vcl)
-Ben Pollack
+Ben Pollack,
 Jimmy McPartland (cnt) Al Harris (tp) Jack Teagarden (tb) Benny Goodman (cl) Gil Rodin (as) Larry
 Binyon (ts) Vic Breidis (p) Ed Bergman, Al Beller (vln) Bill Schumann (cello) Dick Morgan (g) Harry
 Goodman (tu) Ray Bauduc (d) Scrappy Lambert (vcl)
@@ -52,7 +52,7 @@ Charlie Spivak, Yank Lawson, Billy Butterfield (tp) Ward Silloway, Warren Smith 
 Haggart (b) Ray Bauduc (d) Bob Crosby (vcl, ldr) Kay Weber (vcl)
 Los Angeles, November 16, 1937
 20 Sugarfoot Stomp Don Redman (arr).
-Fletcher Henderson and his Orchestra
+Fletcher Henderson and his Orchestra:
 Howard Scott, Elmer Chambers, Louis Armstrong (trps); Charlie Green (trb); Buster Bailey
 (cl/sop/alto); Don Redman (cl/alto/oboe); Coleman Hawkins (cl/ten); Fletcher Henderson (pno);
 Charlie Dixon (bjo); Ralph Escudero (tuba); Kaiser Marshall (dms).
@@ -110,12 +110,12 @@ Benny Goodman Trio:
 Benny Goodman (cl) Teddy Wilson (p) Gene Krupa (d)
 New York, July 13, 1935
 45 King Porter Stomp Fletcher Henderson (arr).
-Goodman (cl); Nate Kazebier, Bunny Berigan, Ralph Muzillo (trp); Red Ballard, Jack Lacey (trbs);
+Benny Goodman (cl); Nate Kazebier, Bunny Berigan, Ralph Muzillo (trp); Red Ballard, Jack Lacey (trbs);
 Toots Mondello, Hymie Schertzer (altos); Art Rollini, Dick Clark (tens); Frank Foeba (pno); George van
 Eps (gtr); Harry Goodman (bass); Gene Krupa (dms).
 Rec.: New York, July 1, 1935
 46 Stompin' at the Savoy Edgar Sampson (arr).
-Goodman (cl); Nate Kazebier, Harry Geller, Ralph Muzillo (trp); Red Ballard, Joe Harris (trbs); Bill
+Benny Goodman (cl); Nate Kazebier, Harry Geller, Ralph Muzillo (trp); Red Ballard, Joe Harris (trbs); Bill
 DePew, Hymie Schertzer (altos); Art Rollini, Dick Clark (tens); Jess Stacy (pno); Allan Reuss (gtr);
 Harry Goodman (bass); Gene Krupa (dms).
 Rec.: Chicago, January 24, 1936
@@ -154,8 +154,7 @@ Alec Fila, Jimmy Maxwell, Cootie Williams, Irving Goodman (tp) Lou McGarity, Cut
 Benny Goodman (cl) Skippy Martin, Gus Bivona, Bob Snyder (as) Georgie Auld, Jack Henderson (ts)
 Bernie Leighton (p) Mike Bryan (g) Artie Bernstein (b) Harry Jaeger (d)
 New York, December 18, 1940
-55 When Lights Are Low
-Lionel Hampton
+55 When Lights Are Low Lionel Hampton
 Dizzy Gillespie (tp) Benny Carter (as, arr) Coleman Hawkins, Chu Berry, Ben Webster (ts) Lionel
 Hampton (vib, vcl) Clyde Hart (p) Charlie Christian (g) Milt Hinton (b) Cozy Cole (d)
 New York, September 11, 1939
@@ -171,7 +170,7 @@ Walter Page (b) Jo Jones (d)
 New York, October 28, 1940
 58 A Smo-o-oth One
 Benny Goodman Sextet:
-Goodman (cl), Cootie Williams (tp) Georgie Auld (ts) Johnny Guarnieri (p) Charlie Christian (el-g)
+Benny Goodman (cl), Cootie Williams (tp) Georgie Auld (ts) Johnny Guarnieri (p) Charlie Christian (el-g)
 Artie Bernstein (b) Dave Tough (d)
 New York, March 13, 1941
 59 The Earl Mel Powell (arr)
@@ -200,7 +199,7 @@ Teddy Wilson (p)
 Concerts, Moscow, July 3-8, 1962
 065 St. Louis wiggle rhythm Tab Smith (arr)
 Mills Blue Rhythm Band
-Wardell Jones, Shelton Hemphill, Henry "Red" Allen (tp) George Washington (tb, arr) J.C.
+Wardell Jones, Shelton Hemphill, Henry "Red" Allen (tp) George Washington (tb, arr) JC
 Higginbotham (tb) Gene Mikell (sop, as, bar, cl) Crawford Wethington (as, bar, cl) Joe Garland (ts,
 bar, cl) Edgar Hayes (p) Lawrence "Larry" Lucie (g) Elmer James (b) O'Neil Spencer (d) Chuck Richards
 (vcl) Alex Hill (arr) Lucky Millinder (vcl) Tab Smith (as)
@@ -308,8 +307,7 @@ New York, November 13, 1961
 (arr) Earl Hines, 
 Charlie Allen (tp) George Dixon (tp, arr) Walter Fuller (tp, vcl) Louis Taylor (tb, arr) William Franklin
 (tb, vcl) Darnell Howard (cl, as, vln) Omer Simeon (cl, as, bar) Cecil Irwin (ts, cl, arr) Earl Hines (p)
-Lawrence Dixon (g, arr) Quinn Wilson (b, tu, arr) Wallace Bishop (d) Henry Woodip (arr) same pers
-or piano solo on (*) Jimmy Mundy (ts, arr), Valaida Snow (vcl)
+Lawrence Dixon (g, arr) Quinn Wilson (b, tu, arr) Wallace Bishop (d) Henry Woodip (arr) Jimmy Mundy (ts, arr), Valaida Snow (vcl)
 New York, February 13, 1933
 113 Cavernism (Jimmy Mundy arr)
 Earl Hines, Darnell Howard (vln-1)
@@ -507,7 +505,7 @@ Kansas City, November 10, 1929
 Baby Alphonso Trent
 Chester Clark, Harry "Sweets" Edison, Peanuts Holland (tp) Snub Mosley, Gus Wilson (tb) James
 Jeter, Chester Pillars (as) Hayes Pillars (ts, bar) Lee Hilliard (as) Anderson Lacy (vln, vcl)
-Eugene Crooke (bj, g) Robert "Eppie" Jackson (tu) A.G. Godley (d) Alphonso Trent (ldr)
+Eugene Crooke (bj, g) Robert "Eppie" Jackson (tu) AG Godley (d) Alphonso Trent (ldr)
 Richmond, Indiana, March 24, 1933
 172 Lafayette Eddie Durham (arr)
 173 Moten Swing Eddie Durham (arr)
@@ -630,7 +628,7 @@ New York, April 8-11, 1963
 Count Basie - Have a nice day:
 Paul Cohen, Sonny Cohn, George "Pete" Minger, Waymon Reed (tp, flh) Al Grey, Melvin Wanzo,
 Grover Mitchell, John Watson (tb) Bill Hughes (btb) Bobby Plater (as, fl) Curtis Peagler (as) Eddie
-Lockjaw Davis (ts) Eric Dixon (ts, fl) Count Basie (p) Freddie Green (g) Norman Keenan (b) Harold
+"Lockjaw" Davis (ts) Eric Dixon (ts, fl) Count Basie (p) Freddie Green (g) Norman Keenan (b) Harold
 Jones (d) John C Williams (bar) Sammy Nestico (arr) on all titles
 Hollywood, CA, August 9, 1971
 193 Sweet Georgia Brown S Sammy Nestico (arr).
@@ -849,12 +847,11 @@ New York, February 28, 1939
 Red Norvo Blackhawk Orchestra:
 Bill Hyland, Stew Pletcher (tp) Frank Simeone (as) Herbie Haymer (ts) Red Norvo (xyl, dir) Joe Liss (p)
 Dave Barbour (g) Pete Peterson (b) Maurice Purtill (d) Mildred Bailey (vcl) Eddie Sauter (tp, arr) Al
-Mastren (tb) Hank d'Amico (cl) Lou Hurst (vcl), Edgar
+Mastren (tb) Hank D'Amico (cl) Lou Hurst (vcl), Edgar
 Sampson (arr) Charles Lamphere (as)
 Chicago, March 22, 1937
-246 Russian
-Lullaby Red Norvo
-Jimmy Blake, Zeke Zarchy, Barney Zudecoff (tp) Al Mastren (tb) Hank d'Amico (cl) Len Goldstein (as)
+246 Russian Lullaby Red Norvo
+Jimmy Blake, Zeke Zarchy, Barney Zudecoff (tp) Al Mastren (tb) Hank D'Amico (cl) Len Goldstein (as)
 Charles Lamphere (as, ts) Jerry Jerome (ts) Bill Miller (p) Allen Hanlon (g) Pete Peterson (b) George
 Wettling (d) Red Norvo (xyl) Mildred Bailey (vcl)
 Los Angeles, September 22, 1937
@@ -865,7 +862,7 @@ Reuss (g) Pete Peterson (b) Dave Tough (d)
 New York, January 10, 1938
 254 Rehearsin' for a Nervous Breakdown
 Red Norvo
-Jack Owens, Jack Palmer, Barney Zudecoff (tp) Andy Russo, Al George (tb) Hank d'Amico (cl) Frank
+Jack Owens, Jack Palmer, Barney Zudecoff (tp) Andy Russo, Al George (tb) Hank D'Amico (cl) Frank
 Simeone (as) Maurice Kogan, George Berg (ts) Red Norvo (xyl) Bill Miller (p), Allen
 Hanlon (g) Pete Peterson (b) George Wettling (d) Mildred Bailey, Terry Allen (vcl)
 New York, February 27, 1939
@@ -878,7 +875,7 @@ JAZZTÖRTÉNET II. Évfolyam 1. Félév SWING BIG BANDEK, SZÓLISTÁK
 256 Slam Slam Blues
 Red Norvo and his Selected Sextet:
 Dizzy Gillespie (tp) Charlie Parker (as) Flip Phillips (ts) Red Norvo (vib) Teddy Wilson (p) Slam Stewart
-(b) Specs Powell (d) J.C. Heard (d-1)
+(b) Specs Powell (d) JC Heard (d-1)
 New York, June 6, 1945
 257 The Man I Love
 Town Hall Concert: Red Norvo and his Orchestra:
@@ -905,16 +902,16 @@ New York, November 12, 1937
 271 Sweet Lorraine
 Teddy Wilson and his Orchestra:
 Doc Cheatham, Karl George, Harold "Shorty" Baker (tp) Floyd Brady (tb) Pete Clark (cl, as, bar) Rudy
-Powell (cl, as) Ben Webster, George Irish (ts) Teddy Wilson (p, arr) Al Casey (g) Al Hall (b) J.C. Heard
+Powell (cl, as) Ben Webster, George Irish (ts) Teddy Wilson (p, arr) Al Casey (g) Al Hall (b) JC Heard
 (d, vcl) Jean Eldridge (vcl) Buster Harding, Edgar Sampson (arr)
 New York, December 11, 1939
 277 On the Sunny Side of the Street
 Buster Bailey (cl); Johnny Hodges (alto); Jess Stacy (pno); Allen Reuss (gtr); John Kirby (bass); Cozy
-Cole (dms). Hampton (vibes/vcl).
+Cole (dms) Lionel Hampton (vibes/vcl)
 Rec.: New York, April 26, 1937
 278 Ring them Bells
 Cootie Williams (trp); Johnny Hodges (alto); Edgar Sampson (bari); Jess Stacy (pno); Allen Reuss (gtr);
-Billy Taylor (bass);Sonny Greer (dms); Hampton (vibes/vcls).
+Billy Taylor (bass);Sonny Greer (dms); Lionel Hampton (vibes/vcls)
 Rec.: New York, January 18, 1938
 LFZE
 Friedrich
@@ -928,18 +925,18 @@ Hampton (vib, vcl) Billy Kyle (p) John Kirby (b) Jo Jones (d)
 New York, July 21, 1938
 282 Twelfth Street Rag
 Rex Stewart (cnt); Lawrence Brown (trb); Harry Carney (bari); Clyde Hart (pno); Billy Taylor (bass);
-Sonny Greer (dms); Hampton (pno).
+Sonny Greer (dms); Lionel Hampton (pno).
 Rec.: New York, June 13, 1939
 283 Hot Mallets
 284 When Lights are Low
 Dizzy Gillespie (trp); Benny Carter (alto/arr); Coleman Hawkins, Ben Webster, Chu Berry (tens);
-Clyde Hart (pno); Charlie Christian (gtr); Milt Hinton (bass); Cozy Cole (dms); Hampton (vibes).
+Clyde Hart (pno); Charlie Christian (gtr); Milt Hinton (bass); Cozy Cole (dms); Lionel Hampton (vibes)
 Rec.: New York, September 11, 1939
 285 Dinah
 Benny Carter (trp); Edmond Hall (cl); Coleman Hawkins (ten); Joe Sullivan (pno); Freddy Green (gtr);
-Artie Bernstein (bass); Zutty Singleton (dms); Hampton (vibes). Rec.: New York, December 21, 1939
+Artie Bernstein (bass); Zutty Singleton (dms); Lionel Hampton (vibes). Rec.: New York, December 21, 1939
 286 Jack the Bellboy
-Nat Cole (pno); Oscar Moore (gtr); Wesley Prince (bass); Hampton (dms). Rec.: Hollywood, May 10,
+Nat Cole (pno); Oscar Moore (gtr); Wesley Prince (bass); Lionel Hampton (dms). Rec.: Hollywood, May 10,
 1940
 288 Flying Home Lionel Hampton (arr)
 Lionel Hampton and his Orchestra:
@@ -955,7 +952,7 @@ Curtis Lowe (ts, bar) Ben Kynard (bar) Lionel Hampton (vib, vcl) Milt Buckner (p
 Johnson (b) Ellis Bartee (d) Sonny Parker (vcl)
 Los Angeles, October 17, 1951
 299 Stardust
-Hampton (vibes); Dwight Mitchell (pno); Billy Mackel (gtr); Peter Badie (bass); Rufus Jones (dms).
+Lionel Hampton (vibes); Dwight Mitchell (pno); Billy Mackel (gtr); Peter Badie (bass); Rufus Jones (dms).
 Rec.: in concert October 28, 1954 Amsterdam.
 300 Exactly Like You
 LE QUINTETTE DU HOT CLUB DE FRANCE:
@@ -964,7 +961,7 @@ Stephane Grappely (vln); Django Reinhardt (solo gtr); Pierre Ferrel, Marcel Bian
 Recorded: Paris, April 21, 1937
 301 Nuages
 LE QUINTETTE DU HOT CLUB DE FRANCE:
-Hubert Roosting, Alix Combelle (cls); Reinhardt (gtr solo); Joseph Reinhardt (gtr); Tony Rovira (bass);
+Hubert Roosting, Alix Combelle (cls); Django Reinhardt (gtr solo); Joseph Reinhardt (gtr); Tony Rovira (bass);
 Pierre Fouad (dms).
 Recorded: Paris, December 13, 1940
 LFZE
@@ -974,15 +971,16 @@ Károly
 JAZZTÖRTÉNET II. Évfolyam 1. Félév SWING BIG BANDEK, SZÓLISTÁK
 32
 303 Montmartre (Django's Jump) REX STEWART AND HIS FEETWARMERS:
-Rex Stewart (cnt); Barney Bigard (cl); Reinhardt (gtr); Billy Taylor (bass). Recorded: Paris, April 5, 1939
+Rex Stewart (cnt); Barney Bigard (cl); Django Reinhardt (gtr); Billy Taylor (bass). 
+Recorded: Paris, April 5, 1939
 305 Between the Devil and the Deep Blue Sea
 DICKIE WELLS AND HIS ORCHESTRA:
-Bill Dillard, Bill Coleman, Shad Collins (trps); Dicky Wells (trb); Reinhardt (gtr); Richard 'Dick'
+Bill Dillard, Bill Coleman, Shad Collins (trps); Dicky Wells (trb); Django Reinhardt (gtr); Richard 'Dick'
 Fullbright (bass); Bill Beason (dms); Roy Eldridge, Dicky Wells (arrangers).
 Recorded: Paris, July 7, 1937
 308 What a Little Moonlight Can
 Do TEDDY WILSON AND HIS ORCHESTRA.
-Roy Eldridge (trp); Benny Goodman (cl); Ben Webster (ten); Wilson (pno); John Trueheart (gtr); John
+Roy Eldridge (trp); Benny Goodman (cl); Ben Webster (ten); Teddy Wilson (pno); John Trueheart (gtr); John
 Kirby (bass); Cozy Cole (dms); Billie Holiday (vcl).
 Recorded: New York, July 2, 1935
 309 It's Too Hot For Words
@@ -1049,10 +1047,10 @@ Recorded: New York, May 9, 1941
 325 Gloomy Sunday (Seress Rezsõ)
 BILLIE HOLLIDAY ACC. BY TEDDY WILSON AND HIS ORCHESTRA.
 Emmett Berry (trp); Jimmy Hamilton (cl/ten); Hymie Schertzer (ten); Babe Russin (ten); Wilson
-(pno); Al Casey (gtr); John Williams (bass); J.C. Heard (dms); Billie Holiday (vcl).
+(pno); Al Casey (gtr); John Williams (bass); JCHeard (dms); Billie Holiday (vcl).
 Recorded: New York, August 7, 1941
 326 Trav'lin' Light Jimmy Mundy
-(arr). PAUL WHITEMAN AND HIS ORCHESTRA.
+(arr). PAUL WHITEMAN AND HIS ORCHESTRA:
 Monty Kelly, Larry Neill, Don Waddilove (trps); Skip Layton, Murray McEachern, Alvy
 West, Danny D'Andrea, Lenny Hartman, Buddy Weed (pno); Mike Pingitore (gtr);
 Artie Shapiro (bass); Willie Rodriguez (dms); Billie Holiday (vcl).
@@ -1102,8 +1100,7 @@ Hochstein, Raymond Menhennick, Myron Sandler (viola) Justin DiTullio, Kurt Reher
 Burg (cello) Paul Smith (p) Tony Rizzi (g) Joe Mondragon (b) Alvin Stoller (d) Russell Garcia (arr, cond) Ella Fitzgerald (vcl)
 Los Angeles, August 18, 1957
 334 Love is Here to Stay
-ELLA FITZGERALD AND LOUIS ARMSTRONG WITH OSCAR PETERSON
-QUARTET. 
+ELLA FITZGERALD AND LOUIS ARMSTRONG WITH OSCAR PETERSON QUARTET:
 Ella Fitzgerald (vcl); Louis Armstrong (trp/vcl); Oscar Peterson (pno); Herb Ellis (gtr); Ray
 Brown (bass); Louis Bellson (dms).
 Recorded: Los Angeles, August 23, 1957
@@ -1215,7 +1212,7 @@ JAZZTÖRTÉNET II. Évfolyam 1. Félév SWING BIG BANDEK, SZÓLISTÁK
 27
 367 Jumpin’ for Jane
 Coleman Hawkins (ten), Fats Navarro (trp), J J Johnson (trb), Budd Johnson (alto), Hank Jones
-(pno), Chuck Wayne (gtr), Marion DeVeta or Jack Lesberg (bass), Max Roach (dms(.
+(pno), Chuck Wayne (gtr), Marion De Veta, Jack Lesberg (bass), Max Roach (dms(.
 Recorded in New York City, December 11, 1947
 368 Picasso
 Coleman Hawkins (tenor sax solo). 
@@ -1284,9 +1281,8 @@ Roy Eldridge, Dave Page, Marion Hazel, Thomas "Sleepy" Grider, Sylvester Lewis (
 Charles Greenlee, George Robinson, Fred Robinson (tb) Sahib Shihab, Joe Eldridge (as) Walt
 Lockhart, Harold Webster (ts) Cecil Payne (bar) Duke Jordan (p) Carl Pruitt (b) Lee Abrams (d)
 New York, September 24, 1946
-387 Tour De Force (Gillespie) (11:12)
-Solos order: Edison, Eldridge, Gillespie, Peterson
-Roy Eldridge, Dizzy Gillespie, Harry “Sweets” Edison (tp), Oscar Peterson (p), Herb Ellis (g),
+387 Tour De Force (Gillespie) (11:12) Solos order: Edison, Eldridge, Gillespie, Peterson
+Roy Eldridge, Dizzy Gillespie, Harry "Sweets" Edison (tp), Oscar Peterson (p), Herb Ellis (g),
 Ray Brown (b) Buddy Rich (d).
 Recorded in New York City, on November 2, 1955
 389 De-Dar
@@ -1311,7 +1307,7 @@ JAZZTÖRTÉNET II. Évfolyam 1. Félév SWING BIG BANDEK, SZÓLISTÁK
 392 Indiana (Back Home Again in Indiana)
 Dizzy Gillespie, Roy Eldridge, Clark Terry - Gillespie & Eldridge & Terry - The Trumpet Kings at
 Montreux
-Dizzy Gillespie, Roy Eldridge, Clark Terry (tps) Oscar Peterson (pno) Niels Pedersen (bass)
+Dizzy Gillespie, Roy Eldridge, Clark Terry (tps) Oscar Peterson (pno) Niels Henning Orsted Pedersen (bass)
 Louis Bellson (dms)
 Recorded at the Montreux Jazz Festival; July 16, 1975.
 393 Take the A Train
@@ -1376,9 +1372,8 @@ Lester Young (ten); Hank Jones (pno); Ray Brown (bass); Buddy Rich (dms).
 Rec.: New York, March 1950
 417 On the Sunny Side of the Street
 418 I Can’t Get Started
-LESTER YOUNG WITH THE OSCAR PETERSON TRIO.
-Lester Young (ten); Peterson (pno); Barney Kessel (gtr); Ray Brown (bass); J. C. Heard (dms). Peterson out
-on I Can’t Get Started.
+LESTER YOUNG WITH THE OSCAR PETERSON TRIO:
+Lester Young (ten); Oscar Peterson (pno); Barney Kessel (gtr); Ray Brown (bass); JC Heard (dms)
 Recorded: New York, August 4, (or November 28, ) 1952
 419 Red Boy Blues
 Harry Edison (trp); Lester Young (ten); Oscar Peterson (pno); Herb Ellis (gtr); Ray Brown (bass); Buddy Rich
@@ -1420,15 +1415,14 @@ as; Duke Ellington, p; Fred Guy, g; Jimmie Blanton, b; Sonny Greer, d.
 Crystal Ballroom, Fargo, North Dakota November 7, 1940
 426 Danny
 Boy Ben Webster Quintet
-Ben Webster (ts) Oscar Peterson (p) Barney Kessel (g) Ray Brown (b) J.C. Heard (d)
+Ben Webster (ts) Oscar Peterson (p) Barney Kessel (g) Ray Brown (b) JC Heard (d)
 New York, May 21, 1953
 428 In a Mellow
 Tone Bill Harris and Friends:
 Bill Harris (tb) Ben Webster (ts) Jimmy Rowles (p) Red Mitchell (b) Stan Levey (d)
 Los Angeles, September 23, 1957
 429 Time After
-Time BEN WEBSTER AND
-FRIENDS
+Time BEN WEBSTER AND FRIENDS:
 Ben Webster (ten); Jimmy Jones (pno); Les Spann (gtr); Ray Brown (bass); Jo Jones (dms).
 Recorded: New York City, April 9, 1959
 430 Go Home
@@ -1474,7 +1468,7 @@ Sylvester "Vess" Payne (d)
 Broadcast AFRS ONS #582, "Savoy Ballroom", New York, February 12, 1945
 442 I'm Beginning to See the Light Ernie Wilkins (arr)
 Rex Stewart/Cootie Williams: The Big Challenge:
-Rex Stewart (cnt) Cootie Williams (tp) Lawrence Brown, J.C. Higginbotham (tb) Coleman Hawkins,
+Rex Stewart (cnt) Cootie Williams (tp) Lawrence Brown, JC Higginbotham (tb) Coleman Hawkins,
 Bud Freeman (ts) Hank Jones (p) Billy Bauer (g) Milt Hinton (b) Gus Johnson (d) Ernie Wilkins, Joe
 Thomas (arr)
 New York, April 30, & May 6, 1957
@@ -1525,13 +1519,13 @@ Briggs (tu) Zutty Singleton (d)
 New York, September 10, 1929
 459 St. Louis Blues (Armstrong vcl)
 460 Rockin' Chair (Armstrong, Hoagy Carmichael vcl)
-Louis Armstrong (tp,vcl) Otis Johnson, Henry "Red" Allen (tp) J.C. Higginbotham (tb) Albert
+Louis Armstrong (tp,vcl) Otis Johnson, Henry "Red" Allen (tp) JCHigginbotham (tb) Albert
 Nicholas, Charlie Holmes (cl,as) Teddy Hill (cl,ts) Luis Russell (p,ldr) Will Johnson (g) Pops Foster
 (b) Paul Barbarin (d,vib-1) Hoagy Carmichael (vcl)
 New York, December 13, 1929
 461 Song of the Islands (Armstrong vcl)
 Louis Armstrong
-Louis Armstrong (tp, vcl) Otis Johnson, Henry "Red" Allen (tp) J.C. Higginbotham (tb) Albert
+Louis Armstrong (tp, vcl) Otis Johnson, Henry "Red" Allen (tp) JC Higginbotham (tb) Albert
 Nicholas, Charlie Holmes (cl,as) Teddy Hill (cl,ts) Luis Russell (p,ldr) Will Johnson (g) Pops Foster
 (b) Paul Barbarin (d,vib-1) Paul Barbarin (vibes)
 New York, January 24, 1930
@@ -1598,7 +1592,7 @@ Blair (g) Pops Foster (b) Paul Barbarin (d)
 New York, May 18, 1936
 487 On the Sunny Side of the Street (Armstrong vcl)
 Louis Armstrong
-Louis Armstrong (tp,vcl) J.C. Higginbotham (tb) Charlie Holmes (as) Bingie Madison (ts) Luis
+Louis Armstrong (tp,vcl) JC Higginbotham (tb) Charlie Holmes (as) Bingie Madison (ts) Luis
 Russell (p) Lee Blair (g) Red Callender (b) Paul Barbarin (d)
 Los Angeles, November 15, 1937
 LFZE
@@ -1610,7 +1604,7 @@ JAZZTÖRTÉNET II. Évfolyam 1. Félév SWING BIG BANDEK, SZÓLISTÁK
 489 Struttin' with Some Barbecue Chappie Willett (arr)
 Louis Armstrong and his Orchestra:
 Louis Armstrong (tp,vcl) Shelton Hemphill, Louis Bacon, Henry "Red" Allen (tp) Wilbur DeParis,
-George Washington, J.C. Higginbotham (tb) Pete Clark, Charlie Holmes (as) Albert Nicholas, Bingie
+George Washington, JC Higginbotham (tb) Pete Clark, Charlie Holmes (as) Albert Nicholas, Bingie
 Madison (cl,ts) Luis Russell (p) Lee Blair (g) Red Callender (b) Paul Barbarin (d)
 Los Angeles, January 12, 1938
 LFZE

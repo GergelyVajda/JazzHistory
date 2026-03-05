@@ -104,7 +104,7 @@ public class JazzHistory {
 	                System.out.println(s);
                 }*/
                     for (String s : sortores) {
-                        tisztit= s.replace(" ","").replaceAll(".+\\)","").replaceAll("/","").replaceAll("\\?","").replaceAll("\\[","").replaceAll("\\]","").replace(")","");
+                        tisztit= s.replace(" ","").replaceAll(".+\\)","").replaceAll("/","").replaceAll("\\?","").replaceAll("\\[","").replaceAll("\\]","").replace(")","").replace("\\“", "\"").replace(")","").replace("\\”", "\"");
                         if (tisztit.length()<5) {
                             //System.out.println(tisztit);
                             continue;
@@ -224,6 +224,9 @@ public class JazzHistory {
             }*/
             FileWriter buta2=new FileWriter("JazztoriZeneszekElofordulas1.2.txt");
             PrintWriter okos2=new PrintWriter(buta2);
+            okos2.println("LFZE JAZZ TANSZAK II. szemeszter");
+            okos2.println("A vizsgakövetelményben említett zenészek, előfordulás száma alapján rendezve");
+            okos2.println("");
             
             String[] abeces= new String[egyediSum.length-1];
             
@@ -242,9 +245,17 @@ public class JazzHistory {
                     }
                 }           
             }
+            okos2.println("");
+            okos2.println("Made by Vajdi, 2026");
+            okos2.println("Source code: https://github.com/GergelyVajda/JazzHistory");
+            
             okos2.close();
             FileWriter buta3=new FileWriter("JZElofordulas-ABC-Sorrendben1.2.txt");
             PrintWriter okos3=new PrintWriter(buta3);
+            okos3.println("LFZE JAZZ TANSZAK II. szemeszter");
+            okos3.println("A vizsgakövetelményben említett zenészek, előfordulásuk száma, abc sorrend szerint rendezve");
+            okos3.println("");
+            
             Arrays.sort(abeces);
             for (int i = 0; i < abeces.length; i++) {
                 if (abeces[i]==null) {
@@ -252,6 +263,11 @@ public class JazzHistory {
                 }
                 okos3.println((i+1)+". "+abeces[i]);
             }
+            
+            okos3.println("");
+            okos3.println("Made by Vajdi, 2026");
+            okos3.println("Source code: https://github.com/GergelyVajda/JazzHistory");
+            
             okos3.close();
 
             
